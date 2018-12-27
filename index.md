@@ -4,7 +4,7 @@ layout: default
 
 
 
-# **岩井雅崇のホームページ**
+# **Masataka Iwai's Homepage**
 岩井雅崇のホームページです。
 それ以上でもそれ以下でもございません。
 
