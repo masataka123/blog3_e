@@ -17,7 +17,7 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 - I study a singular Hermitian metric on a vector bundle positivity of (a direct image of)  a relative canonical sheaf, and so on.
 
 
-## **others**
+## **Others**
 - Name: Masataka Iwai
 - Major: complex algebraic geometry
 - Advisor: Prof. Takayama Shigeharu
