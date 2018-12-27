@@ -1,35 +1,27 @@
 
-# **プロフィール**
+# **Curriculum Vitae**
 
-## **学歴**
-- 2011年3月 私立東大寺学園高等学校卒業<!---  - 2011年4月 東京大学理科I類入学-->
-- 2015年3月 東京大学理学部数学科卒業<!--- 2015年4月 東京大学大学院数理科学研究科修士課程入学-->
-- 2017年3月 東京大学大学院数理科学研究科修士課程修了 (指導教官: 高山茂晴教授)
-- 2017年4月 東京大学大学院数理科学研究科博士課程入学
+## **Education**
+- Mar. 2015    B.S. in Mathematics, the University of Tokyo.
+- Mar. 2017    M.S. in Mathematical Sciences, the University of Tokyo.
+- Apr. 2017--    Ph.D. student in Mathematical Sciences, the University of Tokyo.
 
-## **フェローシップ**
-- 2015年11月から FMSPコース生, Leading Graduate Course for Frontiers of Mathematical Sciences and Physics
-- 2017年4月から 日本学術振興会特別研究員(DC1)
 
-## **受賞**
-2015年3月 理学部学修奨励賞受賞
+## **Fellowaship**
+- Nov. 2015-- FMSP course student, Leading Graduate Course for Frontiers of Mathematical Sciences and Physics.
+- Apr.2017-- JSPS Research Fellow (DC1).
 
-## **教育経験**
-- 2015年度夏学期 教養学部 線型代数学 (文系) (担当: 石井志保子先生)
-- 2015年度冬学期 数学科 複素解析学1演習 (担当: 緒方芳子先生)
-- 2016年度夏学期 教養学部 微積分学演習
-(担当: 高山茂晴先生)
-- 2017年度夏学期 教養学部 線型代数学演習
-(担当: 土岡俊介先生) 
-- 2017年度冬学期 教養学部 線型代数学演習
-(担当: 土岡俊介先生) 
-- 2018年度夏学期 教養学部 線型代数学演習
-(担当: 土岡俊介先生) 
-- 2018年度冬学期 教養学部　線型代数学演習
-(担当: 松井千尋先生) 
+## **Awards**
+Mar. 2015: The Faculty of Science Study Award, School of Science, The University of Tokyo.
 
-- 2015年9月 私立東大寺学園高等学校にて教育実習を行なった。中学1年生を担当した。
-- 2017年3月 中等学校教諭専修免許および高等学校教諭専修免許取得
+## **Teaching**
+- Summer 2015 Mathematics (Linear Algebra) (College of Arts and Sciences, The University of Tokyo. Lecturer: Shihoko Ishi)
+- Winter 2015 Complex Analysis 1 (Department of Mathematics, The University of Tokyo. Lecturer: Yoshiko Ogata)
+- Summer 2016 Mathematics (Calculus) (College of Arts and Sciences, The University of Tokyo. Lecturer: Shigeharu Takayama)
+- Summer 2017 Mathematics (Linear Algebra) (College of Arts and Sciences, The University of Tokyo. Lecturer: Shunsuke Tsuchioka)
+- Winter 2017 Mathematics (Linear Algebra) (College of Arts and Sciences, The University of Tokyo. Lecturer: Shunsuke Tsuchioka)
+- Summer 2018 Mathematics (Linear Algebra) (College of Arts and Sciences, The University of Tokyo. Lecturer: Shunsuke Tsuchioka)
+- Winter 2018 Mathematics (Linear Algebra) (College of Arts and Sciences, The University of Tokyo. Lecturer: Chihiro Matsui)
 
-## **インターンシップ**
-2018年8月22日から10月12日まで NEC研究所にて研究インターンに参加。
+
+

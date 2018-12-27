@@ -1,4 +1,4 @@
-# **論文/プレプリント**
+# **Papers/Preprints**
 
 ## **プレプリント**
 1. Multiplier ideal sheaves and local geodesics for plurisubharmonic functions, submitted to Annales Polonici Mathematici.

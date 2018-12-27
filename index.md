@@ -5,27 +5,24 @@ layout: default
 
 
 # **Masataka Iwai's Homepage**
-岩井雅崇のホームページです。
-それ以上でもそれ以下でもございません。
+This is Masataka Iwai's Homepage.
+A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3/)
 
-英語版はこちら→
+## **Schedule**
+- I will attend to 'Birational Geometry and Hodge Theory' in CIRM from 11 to 15 in February, 2019.
 
-## **予定**
-- 2019年1月19日 DISCO presents ディスカバリーチャンネル コードコンテスト2019 本戦に参加いたします。
-- 2019年2月11日から15日までCIRMでのBirational Geometry and Hodge Theoryに参加いたします。
+## **Home**
+- I'm Masataka Iwai, a Ph.D. student in the Graduate School of Mathematical Sciences, The University of Tokyo.
+- I'm majoring in complex algebraic geometry.
+- I study a singular Hermitian metric on a vector bundle positivity of (a direct image of)  a relative canonical sheaf, and so on.
 
-## **はじめに**
-- 初めまして岩井雅崇と申します。
-- 東京大学大学院数理科学研究科の博士をやっております。
-- 専門は複素代数幾何学です。
-- 主にベクトル束の特異エルミート計量やrelative canonical sheafの正値性、代数多様体間の射に関しての研究を行なっております。
-- 日本語版では数学以外の活動も載せる予定です。
 
-## **事務関連**
-- 名前: 岩井雅崇
-- 専門: 複素代数幾何学
-- 指導教官: 高山茂晴教授
+## **others**
+- Name: Masataka Iwai
+- Major: complex algebraic geometry
+- Advisor: Prof. Takayama Shigeharu
 - Email: masataka[at]ms.u-tokyo.ac.jp
-- 住所: 〒153-8914　東京都目黒区駒場3-8-1
+- address: Graduate School of Mathematical Sciences, The University of Tokyo, 3-8-1 Komaba,
+Tokyo, 153-8914, Japan.
 
 
