@@ -14,7 +14,7 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 ## **Home**
 - I'm Masataka Iwai, a Ph.D. student in the Graduate School of Mathematical Sciences, The University of Tokyo.
 - I'm majoring in complex algebraic geometry.
-- I study a singular Hermitian metric on a vector bundle positivity of (a direct image of)  a relative canonical sheaf, and so on.
+- I study a singular Hermitian metric on a vector bundle, positivity of (a direct image of)  a relative canonical sheaf, and so on.
 
 
 ## **Others**
