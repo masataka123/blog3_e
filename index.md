@@ -10,6 +10,7 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 
 ## **Schedule**
 - I will attend to 'Birational Geometry and Hodge Theory' in CIRM from 11 to 15 in February, 2019.
+- I will talk in '24st Young Mathematician Workshop on algebra' (Japanese title 第24回代数学若手研究会) in the University of Tokyo from 18 to 21 in February, 2019. 
 
 ## **Home**
 - I'm Masataka Iwai, a Ph.D. student in the Graduate School of Mathematical Sciences, The University of Tokyo.
