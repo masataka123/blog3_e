@@ -4,7 +4,7 @@ layout: default
 
 
 
-# **Masataka Iwai's Homepage**
+# **Masataka Iwai**
 This is Masataka Iwai's Homepage.
 A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3/)
 
