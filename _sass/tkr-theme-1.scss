@@ -34,7 +34,7 @@ time, mark, audio, video {
 body {
     padding:10px 50px 0 0;
     font-family: Dotum;
-    font-size: 17px;
+    font-size: 20px;
     color: #232323;
     background-color: #FBFAF7;
     margin: 0;
@@ -355,7 +355,7 @@ sidemenu {
 }
 
 p.sidemenu {
-    font-size: 16px;
+    font-size: 25px;
 }
 
 h1.sidemenu {
@@ -388,10 +388,12 @@ sidemenu ul {
 sidemenu li {
     list-style-type: none;
     width:145px;
-    height:15px;
-    margin-bottom: 12px;
+    height:35px;
+    font-size: 20px;
+    margin-bottom: 20px;
     line-height: 1em;
     padding: 6px 6px 6px 7px;
+    
     
     background: #AF0011;
     background: -moz-linear-gradient(top, #AF0011 0%, #820011 100%);
@@ -428,7 +430,7 @@ a.buttons {
     font-weight: normal;
     text-shadow: rgba(0, 0, 0, 0.4) 0 -1px 0;
     padding: 2px 2px 2px 22px;
-    height: 30px;
+    height: 20px;
 }
 
 a.github {
