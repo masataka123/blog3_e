@@ -25,4 +25,5 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 - address: Graduate School of Mathematical Sciences, The University of Tokyo, 3-8-1 Komaba,
 Tokyo, 153-8914, Japan.
 
+![](https://masataka123.github.io/blog3_e/picture/0.jpg )
 
