@@ -17,13 +17,13 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 ## **Home**
 - I'm Masataka Iwai, a Ph.D. student in the Graduate School of Mathematical Sciences, The University of Tokyo.
 - I'm majoring in complex algebraic geometry and several complex analysis.
-- I study a singular Hermitian metric on a vector bundle, a morphism between smooth projective variery, and so on.
+- I study singular Hermitian metrics on vector bundles, morphisms between smooth projective varieties, and so on.
 
 ![](https://masataka123.github.io/blog3_e/picture/0.jpg )
 
 ## **Others**
 - Name: Masataka Iwai
-- Major: complex algebraic geometry
+- Major: complex algebraic geometry and several complex analysis
 - Advisor: Prof. Takayama Shigeharu
 - Email: masataka[at]ms.u-tokyo.ac.jp
 - address: Graduate School of Mathematical Sciences, The University of Tokyo, 3-8-1 Komaba,
