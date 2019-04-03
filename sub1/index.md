@@ -3,7 +3,7 @@
 
 ## **Education**
 - Mar. 2015    B.S. in Mathematics, the University of Tokyo.
-- Mar. 2017    M.S. in Mathematical Sciences, the University of Tokyo.
+- Mar. 2017    M.S. in Mathematical Sciences, the University of Tokyo.(Advicer: Prof. Shigeharu Takayama)
 - Apr. 2017--    Ph.D. student in Mathematical Sciences, the University of Tokyo.
 
 
@@ -22,6 +22,7 @@ Mar. 2015: The Faculty of Science Study Award, School of Science, The University
 - Winter 2017 Mathematics (Linear Algebra) (College of Arts and Sciences, The University of Tokyo. Lecturer: Shunsuke Tsuchioka)
 - Summer 2018 Mathematics (Linear Algebra) (College of Arts and Sciences, The University of Tokyo. Lecturer: Shunsuke Tsuchioka)
 - Winter 2018 Mathematics (Linear Algebra) (College of Arts and Sciences, The University of Tokyo. Lecturer: Chihiro Matsui)
+- Summer 2019 Mathematics (Calculus) (College of Arts and Sciences, The University of Tokyo. Lecturer: Yusuke Nakamura)
 
 
 
