@@ -8,4 +8,4 @@
 - [Hokuto Konno](https://www.ms.u-tokyo.ac.jp/~hkonno/eng_index.html)
 - [Michiya Mori](http://www.ms.u-tokyo.ac.jp/~mmori/)
 - [Tomohiro Hayase](https://thayafluss.github.io)
-- [Yuya Takeuchi](https://www.ms.u-tokyo.ac.jp/~ytake/)
+- [Yuya Takeuchi](https://sites.google.com/view/yuya-takeuchi-japanese/)
