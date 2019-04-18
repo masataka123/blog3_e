@@ -26,9 +26,10 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 - Name: Masataka Iwai
 - Major: complex algebraic geometry and several complex analysis
 - Advisor: Prof. Takayama Shigeharu
-- Email: masataka[at]ms.u-tokyo.ac.jp
+- Email: masataka[at]ms.u-tokyo.ac.jp, masataka.math[at]gmail.com
 - address: Graduate School of Mathematical Sciences, The University of Tokyo, 3-8-1 Komaba,
 Tokyo, 153-8914, Japan.
-
+- [Google Scholar](https://scholar.google.com/citations?hl=ja&user=ZTKnR6QAAAAJ)
+- [ORCiD](https://orcid.org/0000-0002-0273-0360)
 
 
