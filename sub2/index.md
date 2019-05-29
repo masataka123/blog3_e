@@ -12,5 +12,5 @@ Annales -Mathématiques- de la Faculté des sciences de Toulouse. [arXiv](https:
 - Masataka Iwai, Takahito Kashiwabara, Ichiro Sato and Ryosuke Yano. ‘Earthquake-network in Japan based on Abe-Suzuki model and its characteristics.’ submitted.
 - Masataka Iwai. ‘地震発生の新しい統計則に関する数理的研究’ submitted.
 
-#**Others**
+# **Others**
 - Masataka Iwai. '相対的な設定での藤田予想について' 第24回代数学若手研究会報告集 [PDF](https://masataka123.github.io/blog3/pdf/2019_02_18_hokoku.pdf)
