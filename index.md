@@ -9,7 +9,6 @@ This is Masataka Iwai's Homepage.
 A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3/)
 
 ## **Schedule**
-- I will talk at "2nd Conference of Higher Algebraic Geometry " in Osaka University in 27-28, May, 2019. 
 - I will attend at [NCTS Workshop on Analytic Trends in Complex Geometry and Related Fields](http://www.ncts.ntu.edu.tw/events_2_detail.php?nid=223) in Taiwan in 17-21, June, 2019. 
 - I will attend at [Hayama Symposium](https://sites.google.com/site/scvhayama/) in Hayama in 13-16, July, 2019. 
 - I will attend at [Complex Geometry 2019 Tokyo ](https://sites.google.com/view/cg2019tokyo/) in Tokyo in 17-18, July, 2019. 

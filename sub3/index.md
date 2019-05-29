@@ -7,6 +7,7 @@
 4. 'Characterization of weakly positive torsion-free coherent sheaves by singular Hermitian metrics' MSJ Autumn Meeting 2018, section of complex analysis, Okayama University, Okayama, September 2018. [slide](https://masataka123.github.io/blog3/pdf/2018_09_24_weak.pdf)
 5. '相対的な設定での藤田予想について' (English title: On Fujita's freeness conjecture in a relative setting)  Winter seminar on several complex variables, Osaka City University, Ohsaka, December 2018.
 6. '相対的な設定での藤田予想について' (English title: On Fujita's freeness conjecture in a relative setting)  24st Young Mathematician Workshop on algebra', the University of Tokyo, Tokyo, February 2019. [slide](https://masataka123.github.io/blog3/pdf/2019_02_18.pdf)
+7. 'On the Fujita's freeness conjecture in the relative setting.', 2nd Conference of Higher Algebraic Geometry " in Osaka University, May, 2019. 
 
 
 ## **Seminars**
