@@ -9,9 +9,13 @@ This is Masataka Iwai's Homepage.
 A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3/)
 
 ## **Schedule**
-- I will attend at [Hayama Symposium](https://sites.google.com/site/scvhayama/) in Hayama in 13-16, July, 2019. 
-- I will attend at [Complex Geometry 2019 Tokyo ](https://sites.google.com/view/cg2019tokyo/) in Tokyo in 17-18, July, 2019. 
+- I will talk at [Young mathematicians workshop on algebraic, geometric, 
+and analytic aspects of K theory and vector bundles](http://ktakayuki.github.io/conf2019/churaumi.html)
+in Ryukyu University in 20-23, August, 2019. 
+- I will talk at [54th summer seminar of Theory of function](https://sites.google.com/view/casummerseminar2019) in 28-30, August, 2019. 
+- I will talk at [Young Mathematicians Workshop on Several Complex Variables 2019](http://www.sci.osaka-cu.ac.jp/~tkoike/2019ymwscv.html)in 7-9, September, 2019. 
 - I will talk at "The 62nd symposium on complex analysis", in Daido University in 2-4, November, 2019. 
+- I will attend at [The 25th Symposium on Complex Geometry ](https://u-lab.my-pharm.ac.jp/~noda/cnf/kanazawa25.html) in 11-14, November, 2019.
 
 ## **Home**
 - I'm Masataka Iwai, a Ph.D. student in the Graduate School of Mathematical Sciences, The University of Tokyo.
