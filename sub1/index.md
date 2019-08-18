@@ -4,7 +4,7 @@
 ## **Education**
 - Mar. 2015    B.S. in Mathematics, the University of Tokyo.
 - Mar. 2017    M.S. in Mathematical Sciences, the University of Tokyo.(Advicer: Prof. Shigeharu Takayama)
-- Apr. 2017--    Ph.D. student in Mathematical Sciences, the University of Tokyo.
+- Apr. 2017--   Ph.D. student in Mathematical Sciences, the University of Tokyo.
 
 
 ## **Fellowaship**
