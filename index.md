@@ -9,9 +9,7 @@ This is Masataka Iwai's Homepage.
 A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3/)
 
 ## **Schedule**
-- I will talk at [Young mathematicians workshop on algebraic, geometric, 
-and analytic aspects of K theory and vector bundles](http://ktakayuki.github.io/conf2019/churaumi.html)
-in Ryukyu University in 20-23, August, 2019. 
+- I(We) submitted a new preprint ["On projective manifolds with pseudo-effective tangent bundle"](https://arxiv.org/abs/1908.06421). This is a joint work with Shin-ichi Matsumura and Genki Hosono. My source code of Prop4.8 is [here](https://github.com/masataka123/math/tree/master/polynommial). 
 - I will talk at [54th summer seminar of Theory of function](https://sites.google.com/view/casummerseminar2019) in 28-30, August, 2019. 
 - I will talk at [Young Mathematicians Workshop on Several Complex Variables 2019](http://www.sci.osaka-cu.ac.jp/~tkoike/2019ymwscv.html)in 7-9, September, 2019. 
 - I will talk at "The 62nd symposium on complex analysis", in Daido University in 2-4, November, 2019. 

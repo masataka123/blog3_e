@@ -9,6 +9,8 @@
 6. '相対的な設定での藤田予想について' (English title: On Fujita's freeness conjecture in a relative setting)  24st Young Mathematician Workshop on algebra', the University of Tokyo, Tokyo, February 2019. [slide](https://masataka123.github.io/blog3/pdf/2019_02_18.pdf)
 7. 'On the Fujita's freeness conjecture in the relative setting.', 2nd Conference of Higher Algebraic Geometry " in Osaka University, May, 2019. 
 8. 'On projective manifolds with pseudo-effective tangent bundles'  HAYAMA Symposium on Complex Analysis in Several Variables XXI (night session), Shonan Village Center, Kanagawa, July. 2019. 
+9. 'Projective manifolds with pseudo-effective tangent bundles', Young mathematicians workshop on algebraic, geometric, 
+and analytic aspects of K theory and vector bundles, in Ryukyu University, August, 2019. 
 ## **Seminars**
 1.  'Vanishing theorems of vector bundles with singular Hermitian metrics'  Geometry Seminar, Nagoya University, Aichi, May. 2018. [slide](https://masataka123.github.io/blog3/pdf/2018_05_29.pdf)
 2. 'Recent topics in singular Hemitian metrics' Geometry Seminar, Tohoku University, Sendai, April. 2019. [slide](https://masataka123.github.io/blog3/pdf/2019_04_16.pdf)
