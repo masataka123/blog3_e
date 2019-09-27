@@ -18,7 +18,7 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 - I'm majoring in complex algebraic geometry and several complex analysis.
 - I study singular Hermitian metrics on vector bundles, morphisms between smooth projective varieties, and so on.
 
-![](https://masataka123.github.io/blog3_e/picture/0.jpg )
+![](https://masataka123.github.io/blog3_e/picture/1.jpg )
 
 ## **Others**
 - Name: Masataka Iwai
