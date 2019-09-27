@@ -11,6 +11,9 @@
 8. 'On projective manifolds with pseudo-effective tangent bundles'  HAYAMA Symposium on Complex Analysis in Several Variables XXI (night session), Shonan Village Center, Kanagawa, July. 2019. 
 9. 'Projective manifolds with pseudo-effective tangent bundles', Young mathematicians workshop on algebraic, geometric, 
 and analytic aspects of K theory and vector bundles, in Ryukyu University, August, 2019. 
+10. 'Projective manifolds with pseudo-effective tangent bundles', 54th summer seminar of Theory of function, August, 2019. 
+11. 'Projective manifolds with pseudo-effective tangent bundles', Young Mathematicians Workshop on Several Complex Variables 2019,Osaka City University, Ohsaka, September, 2019. 
+
 ## **Seminars**
 1.  'Vanishing theorems of vector bundles with singular Hermitian metrics'  Geometry Seminar, Nagoya University, Aichi, May. 2018. [slide](https://masataka123.github.io/blog3/pdf/2018_05_29.pdf)
 2. 'Recent topics in singular Hemitian metrics' Geometry Seminar, Tohoku University, Sendai, April. 2019. [slide](https://masataka123.github.io/blog3/pdf/2019_04_16.pdf)
