@@ -15,6 +15,7 @@
 Mar. 2015: The Faculty of Science Study Award, School of Science, The University of Tokyo.
 
 ## **Teaching**
+### **Teaching Assistant**
 - Summer 2015 Mathematics (Linear Algebra) (College of Arts and Sciences, The University of Tokyo. Lecturer: Shihoko Ishi)
 - Winter 2015 Complex Analysis 1 (Department of Mathematics, The University of Tokyo. Lecturer: Yoshiko Ogata)
 - Summer 2016 Mathematics (Calculus) (College of Arts and Sciences, The University of Tokyo. Lecturer: Shigeharu Takayama)
