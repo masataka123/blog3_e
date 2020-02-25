@@ -9,8 +9,7 @@ This is Masataka Iwai's Homepage.
 A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3/)
 
 ## **Schedule**
-- I will hold conference ["Prospects and Open Problems in Higher-dimensional Algebraic Geometry."](http://ktakayuki.github.io/conf2019_2/phdagop.html) in Osaka City university at 9-12, March, 2020.
-
+- Our conference ["Prospects and Open Problems in Higher-dimensional Algebraic Geometry."](http://ktakayuki.github.io/conf2019_2/phdagop.html) is postponed.
 ## **Home**
 - I'm Masataka Iwai, a Ph.D. student in the Graduate School of Mathematical Sciences, The University of Tokyo.
 - I'm majoring in complex algebraic geometry and several complex analysis.
