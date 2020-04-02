@@ -3,7 +3,7 @@
 - Masataka Iwai. 'On the global generation of direct images of pluri-adjoint line bundles', Mathematische Zeitschrift. 294 201-208 (2020) DOI 10.1007/s00209-019-02266-0
 [arXiv](https://arxiv.org/abs/1712.06293) [Article link](https://link.springer.com/article/10.1007/s00209-019-02266-0)
 - Masataka Iwai. 'Nadel-Nakano vanishing theorems of vector bundles with singular Hermitian metrics.', to appear
-Annales -Mathématiques- de la Faculté des sciences de Toulouse. [arXiv](https://arxiv.org/abs/1802.01794)
+Annales -Mathematiques- de la Faculte des sciences de Toulouse. [arXiv](https://arxiv.org/abs/1802.01794)
 
 # **Preprints**
 - Masataka Iwai. 'Multiplier ideal sheaves and local geodesics for plurisubharmonic functions.' [PDF](https://masataka123.github.io/blog3/pdf/weak_geodesic.pdf) 
