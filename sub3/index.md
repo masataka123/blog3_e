@@ -26,4 +26,9 @@ Kodaira's Theory on Complex Manifolds and its Development, Osaka City University
 2. 'Recent topics in singular Hemitian metrics' Geometry Seminar, Tohoku University, Sendai, April. 2019. [slide](https://masataka123.github.io/blog3/pdf/2019_04_16.pdf)
 
 # **Organizing**
-1. 複素代数多様体上の直線束と多重劣調和関数, Tohoku University, Miyagi, February, 2020.
+1. 複素代数多様体上の直線束と多重劣調和関数, Tohoku University, Miyagi, February, 2020. [link](https://tkoike.com/conf_2020/2020Febtouhoku.html)
+
+# **Others**
+1. 2019年度大阪市立大学共同利用・共同研究(A) 「標準束の幾何学」 共同研究の提案者・研究代表 [link](http://www.sci.osaka-cu.ac.jp/OCAMI/joint/joint-usage.html)  [Prospects and Open Problems 
+in Higher-dimensional Algebraic Geometry](http://ktakayuki.github.io/conf2019_2/phdagop.html)
+
