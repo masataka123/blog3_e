@@ -9,7 +9,7 @@ This is Masataka Iwai's Homepage.
 A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3/)
 
 ## **Schedule**
--I'm a researcher in [OCAMI]( http://www.sci.osaka-cu.ac.jp/OCAMI/eng/about/member/member.html) (Osaka City University Advanced Mathematical Institute) from April, 2020.
+- I'm a researcher in [OCAMI]( http://www.sci.osaka-cu.ac.jp/OCAMI/eng/about/member/member.html) (Osaka City University Advanced Mathematical Institute) from April, 2020.
 
 ## **Home**
 - I'm Masataka Iwai, a Ph.D. student in the Graduate School of Mathematical Sciences, The University of Tokyo.
