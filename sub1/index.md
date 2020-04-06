@@ -8,12 +8,12 @@
 - Apr. 2020-- Resercher in OCAMI (Osaka City University Advanced Mathematical Institute)
 
 
-## **Fellowaship**
+## **Fellowship**
 - Nov. 2015--Mar. 2020  FMSP course student, Leading Graduate Course for Frontiers of Mathematical Sciences and Physics.
-- Apr.2017--Mar. 2020  JSPS Research Fellow (DC1).
+- Apr. 2017--Mar. 2020  JSPS Research Fellow (DC1).
 
 ## **Awards**
-Mar. 2015: The Faculty of Science Study Award, School of Science, The University of Tokyo.
+Mar. 2015 The Faculty of Science Study Award, School of Science, The University of Tokyo.
 
 ## **Teaching**
 ### **Teaching Assistant**
