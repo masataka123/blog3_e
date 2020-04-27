@@ -11,6 +11,8 @@
 ## **Fellowship**
 - Nov. 2015--Mar. 2020  FMSP course student, Leading Graduate Course for Frontiers of Mathematical Sciences and Physics.
 - Apr. 2017--Mar. 2020  JSPS Research Fellow (DC1).
+- Apr. 2020--Mar. 2021 Supported by the public interest incorporated foundation Fujukai.
+- Apr. 2020--Mar. 2021 Foundation of Research Fellows, The Mathematical Society of Japan.
 
 ## **Awards**
 Mar. 2015 The Faculty of Science Study Award, School of Science, The University of Tokyo.
