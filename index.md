@@ -21,7 +21,7 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 ## **Others**
 - Name: Masataka Iwai
 - Major: complex algebraic geometry and several complex analysis
-- Email: masataka[at]ms.u-tokyo.ac.jp, masataka.math[at]gmail.com, masataka[at]sci.osaka-cu.ac.jp
+- Email: masataka[at]sci.osaka-cu.ac.jp, masataka.math[at]gmail.com, masataka[at]ms.u-tokyo.ac.jp
 - Address: Osaka City University Advanced Mathematical Institute, 3-3-138 Sugimoto, Sumiyoshi-ku, Osaka,  558-8585,  Japan.
 - [Google Scholar](https://scholar.google.com/citations?hl=ja&user=ZTKnR6QAAAAJ)
 - [ORCiD](https://orcid.org/0000-0002-0273-0360)
