@@ -10,6 +10,7 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 
 ## **Schedule**
 - I'm a researcher in [OCAMI]( http://www.sci.osaka-cu.ac.jp/OCAMI/eng/about/member/member.html) (Osaka City University Advanced Mathematical Institute) from April, 2020.
+- I submitted a new [preprint](https://arxiv.org/abs/2005.04566). This is a joint work with Sho Ejiri and Shin-ichi Matsumura.
 
 ## **Home**
 - I'm Masataka Iwai, a Ph.D. student in the Graduate School of Mathematical Sciences, The University of Tokyo.
