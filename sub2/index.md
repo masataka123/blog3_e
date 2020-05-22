@@ -17,3 +17,7 @@ Annales -Mathematiques- de la Faculte des sciences de Toulouse. [arXiv](https://
 
 # **Others**
 - Masataka Iwai. '相対的な設定での藤田予想について' 第24回代数学若手研究会報告集 [PDF](https://masataka123.github.io/blog3/pdf/2019_02_18_hokoku.pdf)
+- Masataka Iwai "Studies on singular Hermitian metrics and
+their applications in algebraic geometry"
+ [PDF](https://masataka123.github.io/blog3/pdf/phd_final.pdf)
+I am looking for an application of Fujita's decomposition (section 6.3).
