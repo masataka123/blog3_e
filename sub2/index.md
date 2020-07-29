@@ -16,7 +16,9 @@ Annales -Mathematiques- de la Faculte des sciences de Toulouse. [arXiv](https://
 - Masataka Iwai. ‘地震発生の新しい統計則に関する数理的研究.’ 数理科学実践研究レター. [Article link](https://www.ms.u-tokyo.ac.jp/lmsr/pdf/2019-6.pdf)
 - Masataka Iwai, Takahito Kashiwabara, Ichiro Sato and Ryosuke Yano. ‘Earthquake-network in Japan based on Abe-Suzuki model and its characteristics.’ [ResearchGate](https://www.researchgate.net/publication/335443738_Earthquake-network_in_Japan_based_on_Abe-Suzuki_model_and_its_1_characteristics_2)
 
-<!---
+
 # **Others**
-- Masataka Iwai. '相対的な設定での藤田予想について' 第24回代数学若手研究会報告集 [PDF](https://masataka123.github.io/blog3/pdf/2019_02_18_hokoku.pdf)
--->
+- '相対的な設定での藤田予想について'' 第24回代数学若手研究会報告集 (Japanese) [PDF](https://masataka123.github.io/blog3/pdf/2019_02_18_hokoku.pdf)
+- 'Projective manifolds with pseudo-effective tangent bundles' 第62回函数論シンポジウム報告集  (Japanese) [PDF](https://masataka123.github.io/blog3/pdf/2019_11_02.pdf)
+- Ph.D Thesis. [PDF](https://masataka123.github.io/blog3/pdf/phd_iwai.pdf)
+
