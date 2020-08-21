@@ -1,11 +1,13 @@
 
 # **Curriculum Vitae**
 
+## **Employment**
+- Apr. 2020-- Resercher in OCAMI (Osaka City University Advanced Mathematical Institute)
+
 ## **Education**
 - Mar. 2015    B.S. in Mathematics, the University of Tokyo.
 - Mar. 2017    M.S. in Mathematical Sciences, the University of Tokyo. (Advicer: Prof. Shigeharu Takayama)
 - Mar. 2020   Ph.D. in Mathematical Sciences, the University of Tokyo. (Advicer: Prof. Shigeharu Takayama)
-- Apr. 2020-- Resercher in OCAMI (Osaka City University Advanced Mathematical Institute)
 
 
 ## **Fellowship**
@@ -18,6 +20,7 @@
 Mar. 2015 The Faculty of Science Study Award, School of Science, The University of Tokyo.
 
 ## **Teaching**
+
 ### **Teaching Assistant**
 - Summer 2015 Mathematics (Linear Algebra) (College of Arts and Sciences, The University of Tokyo. Lecturer: Shihoko Ishi)
 - Winter 2015 Complex Analysis 1 (Department of Mathematics, The University of Tokyo. Lecturer: Yoshiko Ogata)
