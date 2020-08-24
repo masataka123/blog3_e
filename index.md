@@ -16,16 +16,16 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 ## **Home**
 - I'm Masataka Iwai, a researcher in Osaka City University Advanced Mathematical Institute (OCAMI).
 - I'm majoring in complex algebraic geometry and several complex analysis.
-- I study varieties with pseudo-effective(or big) tangent bundle, varieties with pseudoeffective(or big) anti-canonical bundle, and morphisms between smooth projective varieties (such as Fujita-type conjecture) by using singular Hermitian metrics.
+- I study varieties with pseudo-effective(or big) tangent bundle, morphisms between smooth projective varieties by using singular Hermitian metrics, and the structures of pseudo-effective foliations.
 
 ![](https://masataka123.github.io/blog3_e/picture/1.jpg )
 
 ## **Others**
 - Name: Masataka Iwai
-- Major: complex algebraic geometry and several complex analysis
-- Email: masataka[at]sci.osaka-cu.ac.jp, masataka.math[at]gmail.com, masataka[at]ms.u-tokyo.ac.jp
+- Major: complex algebraic geometry, several complex analysis
+- Email: masataka[at]sci.osaka-cu.ac.jp, masataka.math[at]gmail.com
 - Address: Osaka City University Advanced Mathematical Institute, 3-3-138 Sugimoto, Sumiyoshi-ku, Osaka,  558-8585,  Japan.
 - [Google Scholar](https://scholar.google.com/citations?hl=ja&user=ZTKnR6QAAAAJ)
 - [ORCiD](https://orcid.org/0000-0002-0273-0360)
-
+- Professional Societies: The Mathematical Society of Japan (Member #11981).
 
