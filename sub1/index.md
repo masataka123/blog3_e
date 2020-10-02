@@ -3,6 +3,7 @@
 
 ## **Employment**
 - Apr. 2020-- Resercher in OCAMI (Osaka City University Advanced Mathematical Institute)
+- Oct. 2020-- Researcher in RIMS (Research Institute for Mathmatical Science, Kyoto University) 
 
 ## **Education**
 - Mar. 2015    B.S. in Mathematics, the University of Tokyo.
