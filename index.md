@@ -15,7 +15,7 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 - I'm a researcher in [RIMS]( http://www.sci.osaka-cu.ac.jp/OCAMI/eng/about/member/member.html) (Research Institute for Mathmatical Science, Kyoto University) from October, 2020.
 
 ## **Home**
-- I'm Masataka Iwai, a researcher in Osaka City University Advanced Mathematical Institute (OCAMI) and a researcher in Research Institute for Mathmatical Science, Kyoto University.
+- I'm Masataka Iwai, a researcher in Osaka City University Advanced Mathematical Institute (OCAMI) and a researcher in Research Institute for Mathmatical Science, Kyoto University (RIMS).
 - I'm majoring in complex algebraic geometry and several complex analysis.
 - I study varieties with pseudo-effective(or big) tangent bundle, morphisms between smooth projective varieties by using singular Hermitian metrics, and the structures of pseudo-effective foliations.
 
