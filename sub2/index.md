@@ -2,8 +2,7 @@
 
 - Masataka Iwai. 'On the global generation of direct images of pluri-adjoint line bundles', Mathematische Zeitschrift. 294 201-208 (2020) DOI 10.1007/s00209-019-02266-0
 [arXiv](https://arxiv.org/abs/1712.06293) [Article link](https://link.springer.com/article/10.1007/s00209-019-02266-0)
-- Masataka Iwai. 'Nadel-Nakano vanishing theorems of vector bundles with singular Hermitian metrics.', to appear
-Annales -Mathematiques- de la Faculte des sciences de Toulouse. [arXiv](https://arxiv.org/abs/1802.01794)
+- Masataka Iwai. 'Nadel-Nakano vanishing theorems of vector bundles with singular Hermitian metrics.', to appear Annales -Mathematiques- de la Faculte des sciences de Toulouse. [arXiv](https://arxiv.org/abs/1802.01794)
 - Genki Hosono, Masataka Iwai, Shin-ichi Matsumura. 'On projective manifolds with pseudo-effective tangent bundle.' to appear Journal of the Institute of Mathematics of Jussieu.
 [arXiv](https://arxiv.org/abs/1908.06421), [source code of Prop4.8](https://github.com/masataka123/math/tree/master/polynommial)
 
