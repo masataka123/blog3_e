@@ -23,6 +23,7 @@ Kodaira's Theory on Complex Manifolds and its Development, Osaka City University
 ## **Seminars**
 1.  'Vanishing theorems of vector bundles with singular Hermitian metrics'  Geometry Seminar, Nagoya University, Aichi, May. 2018. [slide](https://masataka123.github.io/blog3/pdf/2018_05_29.pdf)
 2. 'Recent topics in singular Hemitian metrics' Geometry Seminar, Tohoku University, Sendai, April. 2019. [slide](https://masataka123.github.io/blog3/pdf/2019_04_16.pdf)
+3. 'On asymptotic base loci of relative anti-canonical divisors' Complex Geometry Seminar , The University of Tokyo (Online), November. 2020. [PDF1](https://masataka123.github.io/blog3/pdf/2020_11_30_1.pdf)[PDF2](https://masataka123.github.io/blog3/pdf/2020_11_30_2.pdf)
 
 # **Organizing**
 1. 複素代数多様体上の直線束と多重劣調和関数 (English: Line bundles and plurisubharmonic functions on complex algebraic manifolds), Tohoku University, Miyagi, February, 2020. (with T. Koike) [link](https://tkoike.com/conf_2020/2020Febtouhoku.html)
