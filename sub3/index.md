@@ -6,28 +6,27 @@
 2. 'On the global generation of direct images of pluri-adjoint line bundles' MSJ Autumn Meeting 2018, section of complex analysis, Okayama University, Okayama, September 2018. [slide](https://masataka123.github.io/blog3/pdf/2018_09_24_g.pdf)
 3. 'Vanishing theorems of vector bundles with singular Hermitian metrics' MSJ Autumn Meeting 2018, section of complex analysis, Okayama University, Okayama, September 2018. [slide](https://masataka123.github.io/blog3/pdf/2018_09_24_vani.pdf)
 4. 'Characterization of weakly positive torsion-free coherent sheaves by singular Hermitian metrics' MSJ Autumn Meeting 2018, section of complex analysis, Okayama University, Okayama, September 2018. [slide](https://masataka123.github.io/blog3/pdf/2018_09_24_weak.pdf)
-5. '相対的な設定での藤田予想について' (English title: On Fujita's freeness conjecture in a relative setting)  Winter seminar on several complex variables, Osaka City University, Osaka, December 2018. 
-6. '相対的な設定での藤田予想について' (English title: On Fujita's freeness conjecture in a relative setting)  24st Young Mathematician Workshop on algebra', the University of Tokyo, Tokyo, February 2019. [PDF](https://masataka123.github.io/blog3/pdf/2019_02_18_hokoku.pdf)
+5. 'On Fujita's freeness conjecture in a relative setting', Winter seminar on several complex variables, Osaka City University, Osaka, December 2018. 
+6. 'On Fujita's freeness conjecture in a relative setting', 24st Young Mathematician Workshop on algebra', the University of Tokyo, Tokyo, February 2019. [PDF](https://masataka123.github.io/blog3/pdf/2019_02_18_hokoku.pdf)
 7. 'On the Fujita's freeness conjecture in the relative setting.', 2nd Conference of Higher Algebraic Geometry " in Osaka University, May, 2019. 
 8. 'On projective manifolds with pseudo-effective tangent bundles'  HAYAMA Symposium on Complex Analysis in Several Variables XXI (night session), Shonan Village Center, Kanagawa, July. 2019. 
 9. 'Projective manifolds with pseudo-effective tangent bundles', Young mathematicians workshop on algebraic, geometric, and analytic aspects of K theory and vector bundles, in Ryukyu University, August, 2019. 
 10. 'Projective manifolds with pseudo-effective tangent bundles', 54th summer seminar of Theory of function, August, 2019. 
 11. 'Projective manifolds with pseudo-effective tangent bundles', Young Mathematicians Workshop on Several Complex Variables 2019,Osaka City University, Osaka, September, 2019. 
 12. 'Projective manifolds with pseudo-effective tangent bundles', 62th Symposium of complex analysis , Nagoya, November, 2019.[PDF](https://masataka123.github.io/blog3/pdf/2019_11_02.pdf)
-13. 'Bauer-Pignatelli「Rigid but not infinitesimally rigid compact complex manifolds」の解説' (English title: Description of Bauer-Pignatelli "Rigid but not infinitesimally rigid compact complex manifolds") 
-Kodaira's Theory on Complex Manifolds and its Development, Osaka City University, Osaka, December, 2019.
-14. ”葉層の代数幾何学” (English title: Foliation theory in algebraic geometry), 複素代数多様体上の直線束と多重劣調和関数 (English: Line bundles and plurisubharmonic functions on complex algebraic manifolds), Tohoku University, Miyagi, February, 2020.
-15. ' 相対的反標準因子のasymptotic base lociについて(English title: On asymptotic base loci of relative anti-canonical divisors of algebraic fiber spaces)' MSJ Autumn Meeting 2020, section of complex analysis, Okayama University, Online, September 2020. [slide](https://masataka123.github.io/blog3/pdf/2020_09_22.pdf)
-16. '相対的反標準因子のasymptotic base lociについて' (Einglish titile: On asymptotic base loci of relative anti-canonical divisors), 多変数関数論冬セミナー, オンライン開催, 2020年12月[PDF](https://masataka123.github.io/blog3/pdf/2020_12_17.pdf)
+13. 'Description of Bauer-Pignatelli "Rigid but not infinitesimally rigid compact complex manifolds"', Kodaira's Theory on Complex Manifolds and its Development, Osaka City University, Osaka, December, 2019.
+14. 'Foliation theory in algebraic geometry', Line bundles and plurisubharmonic functions on complex algebraic manifolds, Tohoku University, Miyagi, February, 2020.
+15. 'On asymptotic base loci of relative anti-canonical divisors of algebraic fiber spaces', MSJ Autumn Meeting 2020, section of complex analysis, Okayama University, Online, September 2020. [slide](https://masataka123.github.io/blog3/pdf/2020_09_22.pdf)
+16. 'On asymptotic base loci of relative anti-canonical divisors', Winter seminar on several complex variables, Online, December. 2020. [PDF](https://masataka123.github.io/blog3/pdf/2020_12_17.pdf)
 
 ## **Seminars**
 1.  'Vanishing theorems of vector bundles with singular Hermitian metrics'  Geometry Seminar, Nagoya University, Aichi, May. 2018. [slide](https://masataka123.github.io/blog3/pdf/2018_05_29.pdf)
 2. 'Recent topics in singular Hemitian metrics' Geometry Seminar, Tohoku University, Sendai, April. 2019. [slide](https://masataka123.github.io/blog3/pdf/2019_04_16.pdf)
 3. 'On asymptotic base loci of relative anti-canonical divisors' Complex Geometry Seminar , The University of Tokyo (Online), November. 2020. [PDF1](https://masataka123.github.io/blog3/pdf/2020_11_30_1.pdf)[PDF2](https://masataka123.github.io/blog3/pdf/2020_11_30_2.pdf)
-4. '正則接ベクトルが正値性を持つ部分束を含むときの代数多様体の構造について' (Einglish titile: On projective manifolds whose tangent bundles contain positive subbundles), Geometry Seminar, Osaka University+Online, December. 2020.
+4. 'On projective manifolds whose tangent bundles contain positive subbundles', Geometry Seminar, Osaka University+Online, December. 2020.
 
 # **Organizing**
-1. 複素代数多様体上の直線束と多重劣調和関数 (English: Line bundles and plurisubharmonic functions on complex algebraic manifolds), Tohoku University, Miyagi, February, 2020. (with T. Koike) [link](https://tkoike.com/conf_2020/2020Febtouhoku.html)
+1. Line bundles and plurisubharmonic functions on complex algebraic manifolds', Tohoku University, Miyagi, February, 2020. (with T. Koike) [link](https://tkoike.com/conf_2020/2020Febtouhoku.html)
 2. ”Prospects and Open Problems in Higher-dimensional Algebraic Geometry", Osaka City University, Osaka, March, 2020. (with Y.Gongyo, S. Matsumura and T. Koike) , (canceled by covid-19 outbreak.) [link](http://ktakayuki.github.io/conf2019_2/phdagop.html)
 
 # **Others**
