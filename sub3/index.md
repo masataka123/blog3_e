@@ -18,11 +18,13 @@
 Kodaira's Theory on Complex Manifolds and its Development, Osaka City University, Osaka, December, 2019.
 14. ”葉層の代数幾何学” (English title: Foliation theory in algebraic geometry), 複素代数多様体上の直線束と多重劣調和関数 (English: Line bundles and plurisubharmonic functions on complex algebraic manifolds), Tohoku University, Miyagi, February, 2020.
 15. ' 相対的反標準因子のasymptotic base lociについて(English title: On asymptotic base loci of relative anti-canonical divisors of algebraic fiber spaces)' MSJ Autumn Meeting 2020, section of complex analysis, Okayama University, Online, September 2020. [slide](https://masataka123.github.io/blog3/pdf/2020_09_22.pdf)
+16. '相対的反標準因子のasymptotic base lociについて' (Einglish titile: On asymptotic base loci of relative anti-canonical divisors), 多変数関数論冬セミナー, オンライン開催, 2020年12月[PDF](https://masataka123.github.io/blog3/pdf/2020_12_17.pdf)
 
 ## **Seminars**
 1.  'Vanishing theorems of vector bundles with singular Hermitian metrics'  Geometry Seminar, Nagoya University, Aichi, May. 2018. [slide](https://masataka123.github.io/blog3/pdf/2018_05_29.pdf)
 2. 'Recent topics in singular Hemitian metrics' Geometry Seminar, Tohoku University, Sendai, April. 2019. [slide](https://masataka123.github.io/blog3/pdf/2019_04_16.pdf)
 3. 'On asymptotic base loci of relative anti-canonical divisors' Complex Geometry Seminar , The University of Tokyo (Online), November. 2020. [PDF1](https://masataka123.github.io/blog3/pdf/2020_11_30_1.pdf)[PDF2](https://masataka123.github.io/blog3/pdf/2020_11_30_2.pdf)
+4. '正則接ベクトルが正値性を持つ部分束を含むときの代数多様体の構造について' (Einglish titile: On projective manifolds whose tangent bundles contain positive subbundles), Geometry Seminar, Osaka University+Online, December. 2020.
 
 # **Organizing**
 1. 複素代数多様体上の直線束と多重劣調和関数 (English: Line bundles and plurisubharmonic functions on complex algebraic manifolds), Tohoku University, Miyagi, February, 2020. (with T. Koike) [link](https://tkoike.com/conf_2020/2020Febtouhoku.html)
