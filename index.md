@@ -29,5 +29,6 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 - Address 2: Research Institute for Mathematical Sciences, Kyoto University, Kyoto 606-8502, Japan.
 - [Google Scholar](https://scholar.google.com/citations?hl=ja&user=ZTKnR6QAAAAJ)
 - [ORCiD](https://orcid.org/0000-0002-0273-0360)
+- [Research Map](https://researchmap.jp/Masataka_iwai)
 - Professional Societies: The Mathematical Society of Japan (Member #11981).
 
