@@ -14,7 +14,7 @@
 
 # **Papers and preprints in other fields**
 - Masataka Iwai. ‘地震発生の新しい統計則に関する数理的研究.’ 数理科学実践研究レター. [Article link](https://www.ms.u-tokyo.ac.jp/lmsr/pdf/2019-6.pdf)
-- Masataka Iwai, Takahito Kashiwabara, Ichiro Sato and Ryosuke Yano. ‘Earthquake-network in Japan based on Abe-Suzuki model and its characteristics.’ [ResearchGate](https://www.researchgate.net/publication/335443738_Earthquake-network_in_Japan_based_on_Abe-Suzuki_model_and_its_1_characteristics_2)
+- Masataka Iwai, Takahito Kashiwabara, Ichiro Sato and Ryosuke Yano. ‘Earthquake-network in Japan based on Abe-Suzuki model and its characteristics.’ DOI: 10.13140/RG.2.2.12494.61766 [ResearchGate](https://www.researchgate.net/publication/335443738_Earthquake-network_in_Japan_based_on_Abe-Suzuki_model_and_its_1_characteristics_2) 
 
 
 # **Others**
