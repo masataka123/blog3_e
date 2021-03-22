@@ -16,6 +16,7 @@
 - Apr. 2017--Mar. 2020  JSPS Research Fellow (DC1).
 - Apr. 2020--Mar. 2021 Supported by the public interest incorporated foundation Fujukai.
 - Apr. 2020--Mar. 2021 Foundation of Research Fellows, The Mathematical Society of Japan.
+- Apr. 2021--Mar. 2022 Supported by the public interest incorporated foundation Fujukai.
 
 ## **Awards**
 Mar. 2015 The Faculty of Science Study Award, School of Science, The University of Tokyo.
