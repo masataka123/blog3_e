@@ -10,7 +10,7 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 
 ## **Schedule**
 - I submitted my preprint to Arxiv in March. [Link](https://arxiv.org/abs/2103.08779)
-- I'm a researcher in Osaka City University Advanced Mathematical Institute (OCAMI) [Link](http://www.sci.osaka-cu.ac.jp/OCAMI/eng/about/member/member.html)
+- I'm a researcher in Osaka City University Advanced Mathematical Institute (OCAMI) from April [Link](http://www.sci.osaka-cu.ac.jp/OCAMI/eng/about/member/member.html)
 
 ## **Home**
 - I'm Masataka Iwai, a researcher in Osaka City University Advanced Mathematical Institute (OCAMI).
