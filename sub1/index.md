@@ -2,8 +2,10 @@
 # **Curriculum Vitae**
 
 ## **Employment**
-- Apr. 2020-- Resercher in OCAMI (Osaka City University Advanced Mathematical Institute)
+- Apr. 2020--May. 2021 Resercher in OCAMI (Osaka City University Advanced Mathematical Institute)
 - Oct. 2020--Mar. 2021 Researcher in RIMS (Research Institute for Mathmatical Science, Kyoto University) 
+- Jun. 2021-- Assistant professor in RACMaS (Research Alliance Center for Mathematical Sciences, Tohoku University)
+
 
 ## **Education**
 - Mar. 2015    B.S. in Mathematics, the University of Tokyo.
