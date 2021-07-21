@@ -28,7 +28,7 @@
 3. 'On asymptotic base loci of relative anti-canonical divisors' Complex Geometry Seminar , The University of Tokyo (Online), November. 2020. [PDF1](https://masataka123.github.io/blog3/pdf/2020_11_30_1.pdf)[PDF2](https://masataka123.github.io/blog3/pdf/2020_11_30_2.pdf)
 4. 'On projective manifolds whose tangent bundles contain positive subbundles', Geometry Seminar, Osaka University+Online, December. 2020.
 5. 'On the structure of a log smooth pair in the equality case of the Bogomolov-Gieseker inequality', Geometry Seminar in Kyushu University, Online, June. 2021. [PDF](https://masataka123.github.io/blog3/pdf/2021_06_25.pdf)
-
+6. 'On the structure of a log smooth pair in the equality case of the Bogomolov-Gieseker inequality', Geometry Seminar in Tohoku University, Online, July. 2021. [PDF](https://masataka123.github.io/blog3/pdf/2021_07_13.pdf)
 
 # **Organizing**
 1. Line bundles and plurisubharmonic functions on complex algebraic manifolds', Tohoku University, Miyagi, February, 2020. (with T. Koike) [link](https://tkoike.com/conf_2020/2020Febtouhoku.html)
