@@ -9,8 +9,7 @@ This is Masataka Iwai's Homepage.
 A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3/)
 
 ## **Schedule**
-- The email address "masataka[at]sci.osaka-cu.ac.jp" will no longer be available.
-From now on, please email "masataka.iwai.c5[at]tohoku.ac.jp" or "masataka.math[at]gmail.com". 
+- On 7th -- 10th February, 2022, we will hold the conference ["Subvarieties and foliations of complex projective varieties"](https://tkoike.com/conf_2021/2022Feb.html). We are looking forward to your participation.
 
 ## **Home**
 - I'm Masataka Iwai, an assistant professor in Research Alliance Center for Mathematical Sciences, Tohoku University (RACMaS). [Link](http://www.racmas.tohoku.ac.jp/organization.php)
