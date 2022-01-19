@@ -9,6 +9,8 @@ This is Masataka Iwai's Homepage.
 A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3/)
 
 ## **Schedule**
+- On 20th -- 24th June, 2022,  I will talk in [Workshop on Complex Analysis and Geometry](https://grauert-tubes-2022.esaga.net).
+- On 2nd -- 3rd March, 2022,  I will talk in [The hybrid 20th Affine Algebraic Geometry Meeting](http://dubouloz.perso.math.cnrs.fr/Confs/AAG-20-Saitama-2022/index.html).
 - On 7th -- 10th February, 2022, we will hold the conference ["Subvarieties and foliations of complex projective varieties"](https://tkoike.com/conf_2021/2022Feb.html). We are looking forward to your participation.
 
 ## **Home**
