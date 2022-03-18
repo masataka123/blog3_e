@@ -21,7 +21,8 @@
 - Apr. 2021--Mar. 2022 Supported by the public interest incorporated foundation Fujukai.
 
 ## **Awards**
-Mar. 2015 The Faculty of Science Study Award, School of Science, The University of Tokyo.
+- Mar. 2015. The Faculty of Science Study Award, School of Science, The University of Tokyo.
+- Mar. 2022. OCAMI special award in 2021 fiscal year, Osaka City University Advanced Mathematical Institute.
 
 ## **Teaching**
 
