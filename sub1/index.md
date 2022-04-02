@@ -4,7 +4,8 @@
 ## **Employment**
 - Apr. 2020--May. 2021 Resercher in OCAMI (Osaka City University Advanced Mathematical Institute)
 - Oct. 2020--Mar. 2021 Researcher in RIMS (Research Institute for Mathmatical Science, Kyoto University) 
-- Jun. 2021-- Assistant professor in RACMaS (Research Alliance Center for Mathematical Sciences, Tohoku University)
+- Jun. 2021--Mar. 2022  Assistant professor in RACMaS (Research Alliance Center for Mathematical Sciences, Tohoku University)
+- Apr. 2022-- Assistant professor in Department of Mathematics, Graduate School of Science, Osaka University.
 
 
 ## **Education**
@@ -29,7 +30,10 @@
 ### **Lecture**
 - Winter 2020, Calculas 2 (Osaka city University) [Link](https://github.com/masataka123/class/tree/master/2020_autumn)
 - Summer 2021, Calculas 1 (Osaka city University) [Link](https://github.com/masataka123/2021_summer)
-
+- Summer 2022, Linear Algebra 1 (Osaka University)
+- Winter 2022, Calculas 2 (Osaka University)
+- Winter 2022, Problem Session for Basics of Geometry 2 (Topology) (Osaka University)
+- Winter 2022, Problem Session for Introduction to Geometry (Differentiable manifolds) (Osaka University)
 
 ### **Teaching Assistant**
 - Summer 2015 Mathematics (Linear Algebra) (College of Arts and Sciences, The University of Tokyo. Lecturer: Shihoko Ishi)
