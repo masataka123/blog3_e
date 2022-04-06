@@ -30,7 +30,7 @@
 ### **Lecture**
 - Winter 2020, Calculas 2 (Osaka city University) [Link](https://github.com/masataka123/class/tree/master/2020_autumn)
 - Summer 2021, Calculas 1 (Osaka city University) [Link](https://github.com/masataka123/2021_summer)
-- Summer 2022, Linear Algebra 1 (Osaka University)
+- Summer 2022, Linear Algebra 1 (Osaka University) [Link](https://masataka123.github.io/2022_summer_LA/)
 - Winter 2022, Calculas 2 (Osaka University)
 - Winter 2022, Problem Session for Basics of Geometry 2 (Topology) (Osaka University)
 - Winter 2022, Problem Session for Introduction to Geometry (Differentiable manifolds) (Osaka University)
