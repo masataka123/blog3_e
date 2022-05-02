@@ -32,6 +32,7 @@
 4. 'On projective manifolds whose tangent bundles contain positive subbundles', Geometry Seminar, Osaka University+Online, December. 2020.
 5. 'On the structure of a log smooth pair in the equality case of the Bogomolov-Gieseker inequality', Geometry Seminar in Kyushu University, Online, June. 2021. [PDF](https://masataka123.github.io/blog3/pdf/2021_06_25.pdf)
 6. 'On the structure of a log smooth pair in the equality case of the Bogomolov-Gieseker inequality', Geometry Seminar in Tohoku University, Online, July. 2021. [PDF](https://masataka123.github.io/blog3/pdf/2021_07_13.pdf)
+7. 'Abundance theorem for minimal projective manifolds with vanishing second Chern classes', Geometry Seminar, Osaka University+Online, April. 2022.
 
 # **Organizing**
 1. Line bundles and plurisubharmonic functions on complex algebraic manifolds', Tohoku University, Miyagi, February, 2020. (with T. Koike) [link](https://tkoike.com/conf_2020/2020Febtouhoku.html)
