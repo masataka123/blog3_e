@@ -14,7 +14,7 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 
 ## **Home**
 - I'm Masataka Iwai, an assistant professor in Department of Mathematics, Graduate School of Science, Osaka University. [Link](http://www.math.sci.osaka-u.ac.jp/eng/staff.html)
-- I'm majoring in complex geometry, algebraic geometry, and several complex analysis.
+- I'm majoring in complex geometry, algebraic geometry, and several complex variables.
 - I'm interested in these topics:
 1. Structure of morphisms between projective manifolds. I studied relative anti-canonical divisors and relative versions of Fujita's conjecture.
 2. Structure of projective manifolds whose tangent bundles are "positive" (such as ample, nef, big, pseudo-effective). Recently, I studied the structure of log smooth pairs whose logarithmic tangent bundles are "positive".
@@ -24,7 +24,7 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 
 ## **Others**
 - Name: Masataka Iwai
-- Major: complex geometry, algebraic geometry, several complex analysis
+- Major: complex geometry, algebraic geometry, several complex variables
 - Email: masataka[at]math.sci.osaka-u.ac.jp, masataka.math[at]gmail.com 
 - Affiliation: Department of Mathematics, Graduate School of Science, Osaka University
 - Address : 1-1 Machikaneyama-cho, Toyonaka, Osaka 560-0043, Japan
