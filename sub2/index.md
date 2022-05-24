@@ -10,6 +10,7 @@
 # **Preprints**
 - Sho Ejiri, Masataka Iwai, Shin-ichi Matsumura. 'On asymptotic base loci of relative anti-canonical divisors of algebraic fiber spaces.' [arXiv](https://arxiv.org/abs/2005.04566)
 - Masataka Iwai. 'On the structure of a log smooth pair in the equality case of the Bogomolov-Gieseker inequality' [arXiv](https://arxiv.org/abs/2103.08779) [source code of Remark 5.3](https://github.com/masataka123/math/blob/master/chern.ipynb)
+- Masataka Iwai, Shin-ichi Matsumura. 'Abundance theorem for minimal compact Kahler manifolds with vanishing second Chern class.' [arXiv](https://arxiv.org/abs/2205.10613)
 
 # **Papers and preprints in other fields**
 - Masataka Iwai. ‘地震発生の新しい統計則に関する数理的研究.’ 数理科学実践研究レター(Japanese). [Article link](https://www.ms.u-tokyo.ac.jp/lmsr/pdf/2019-6.pdf)
