@@ -20,7 +20,7 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 I established the structure theorem for "positive" tangent bundles and "positive" foliations.
 Recently, I studied the structure of log smooth pairs whose logarithmic tangent bundles are "positive".
 3. Structure of projective manifolds whose cotangent bundles are "positive". 
-I proved the abundance conjecture for minimal projective manifolds with nef cotangent bundles whose numerical Kodaira dimension is one and we established the structure theorem for this projective manifolds.
+I proved the abundance conjecture for minimal projective manifolds with nef cotangent bundles whose numerical Kodaira dimension is one and I established the structure theorem for this projective manifolds.
 <!--- - I study the structures of complex projective manifolds whose tangent bundles are "positive" (such as nef, big, pseudo-effective, and so on) and the morphisms between smooth projective varieties by using singular Hermitian metrics. -->
 ![](https://masataka123.github.io/blog3_e/picture/1.jpg )
 
