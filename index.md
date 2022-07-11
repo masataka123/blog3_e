@@ -10,7 +10,6 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 
 ## **Schedule**
 - On 24th May, 2022, I submitted a new preprint. [arXiv](https://arxiv.org/abs/2205.10613) This is a joint work with Shin-ichi Matsumura.
-- On 20th -- 24th June, 2022,  I will talk in [Workshop on Complex Analysis and Geometry](https://grauert-tubes-2022.esaga.net).
 
 ## **Home**
 - I'm Masataka Iwai, an assistant professor in Department of Mathematics, Graduate School of Science, Osaka University. [Link](http://www.math.sci.osaka-u.ac.jp/eng/staff.html)
