@@ -17,7 +17,7 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 - I'm interested in these topics:
 1. Structure of morphisms between projective manifolds. I studied relative anti-canonical divisors and relative versions of Fujita's conjecture.
 2. Structure of projective manifolds whose tangent bundles are "positive" (such as ample, nef, big, pseudo-effective). 
-I established the structure theorem for "positive" tangent bundles and "positive" foliations.
+I established the structure theorem for projective manifolds with "positive" tangent bundles or "positive" foliations.
 Recently, I studied the structure of log smooth pairs whose logarithmic tangent bundles are "positive".
 3. Structure of projective manifolds whose cotangent bundles are "positive". 
 I proved the abundance conjecture for minimal projective manifolds with nef cotangent bundles whose numerical Kodaira dimension is one and I established the structure theorem for this projective manifolds.
@@ -34,5 +34,6 @@ I proved the abundance conjecture for minimal projective manifolds with nef cota
 - [ORCiD](https://orcid.org/0000-0002-0273-0360)
 - [Research Map](https://researchmap.jp/Masataka_iwai)
 - Professional Societies: The Mathematical Society of Japan (Member #11981).
+
 
 
