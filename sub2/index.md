@@ -22,4 +22,5 @@
 - '相対的な設定での藤田予想について'' 第24回代数学若手研究会報告集 (Japanese) [PDF](https://masataka123.github.io/blog3/pdf/2019_02_18_hokoku.pdf)
 - 'Projective manifolds with pseudo-effective tangent bundles' 第62回函数論シンポジウム報告集  (Japanese) [PDF](https://masataka123.github.io/blog3/pdf/2019_11_02.pdf)
 -  'On the structure of a log smooth pair in the equality case of the Bogomolov-Gieseker inequality' 都の西北代数幾何学シンポジウム2021報告集  (Japanese) [PDF](https://masataka123.github.io/blog3/pdf/2021_10_31.pdf)
+- 'Abundance theorem for minimal compact Kahler manifolds with vanishing second Chern class.' 第69回幾何学シンポジウム 予稿(報告集) (Japanese)  [PDF](https://masataka123.github.io/blog3/pdf/2022_07_20_Geometry_Symp_2022.pdf)
 <!-- - Masataka Iwai. 'Multiplier ideal sheaves and local geodesics for plurisubharmonic functions.' [PDF](https://masataka123.github.io/blog3/pdf/weak_geodesic.pdf) -->
