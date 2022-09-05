@@ -25,6 +25,7 @@
 21. 'On the structure of projective manifolds whose tangent bundles are positive.' The hybrid 20th Affine Algebraic Geometry Meeting, hybrid, March 2022. [PDF](https://masataka123.github.io/blog3/pdf/2022_03_02.pdf)
 22. 'Research on structures of complex projective manifolds whose holomorphic tangent bundles are positive.' Award ceremony of OCAMI paper prize in 2021 fiscal year and a special award & a memorial talk, OCAMI(Osaka City University Advanced Mathematical Institute), March 2022. [PDF](https://masataka123.github.io/blog3/pdf/2022_03_16.pdf)
 23. 'Abundance theorem for minimal compact Kahler manifolds with vanishing second Chern class' [Workshop on Complex Analysis and Geometry](https://grauert-tubes-2022.esaga.net), Essen University, June 2022.
+24. 'Abundance theorem for minimal compact Kahler manifolds with vanishing second Chern class' [69th Geometry Symposium](https://www.mathsoc.jp/~geometry/symp_schedule/geometry_symposium_2022.html) Tokyo University of Science, August 2022.  [slide](https://masataka123.github.io/blog3/pdf/2022_08_31_Geometry_Symp_2022_slide.pdf)
 
 ## **Seminars**
 1.  'Vanishing theorems of vector bundles with singular Hermitian metrics'  Geometry Seminar, Nagoya University, Aichi, May. 2018. [slide](https://masataka123.github.io/blog3/pdf/2018_05_29.pdf)
