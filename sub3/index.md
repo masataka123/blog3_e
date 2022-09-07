@@ -7,17 +7,7 @@
 23. 'Abundance theorem for minimal compact Kahler manifolds with vanishing second Chern class' [Workshop on Complex Analysis and Geometry](https://grauert-tubes-2022.esaga.net), Essen University, June 2022.
 24. 'Abundance theorem for minimal compact Kahler manifolds with vanishing second Chern class' [69th Geometry Symposium](https://www.mathsoc.jp/~geometry/symp_schedule/geometry_symposium_2022.html) Tokyo University of Science, August 2022.  [slide](https://masataka123.github.io/blog3/pdf/2022_08_31_Geometry_Symp_2022_slide.pdf)
 
-### **Apr. 2020--Mar. 2022**
-15. 'On asymptotic base loci of relative anti-canonical divisors of algebraic fiber spaces', MSJ Autumn Meeting 2020, section of complex analysis, Online, September 2020. [slide](https://masataka123.github.io/blog3/pdf/2020_09_22.pdf)
-16. 'On asymptotic base loci of relative anti-canonical divisors', Winter seminar on several complex variables, Online, December. 2020. [PDF](https://masataka123.github.io/blog3/pdf/2020_12_17.pdf)
-17. 'On projective manifolds whose tangent bundles contain positive subbundles', Grauert theory and recent complex geometry , Online, February. 2021. [PDF](https://masataka123.github.io/blog3/pdf/2021_02_06.pdf)
-18. On projective manifolds whose tangent bundles contain positive subbundles', MSJ Meeting 2021, section of complex analysis, Online, March 2021. [PDF](https://masataka123.github.io/blog3/pdf/2021_03_12.pdf)
-19. 'On the structure of a log smooth pair in the equality case of the Bogomolov-Gieseker inequality',Algebraic Geometry Symposium in Waseda University, Online, August 2021. [slide](https://masataka123.github.io/blog3/pdf/2021_08_20.pdf) 
-20. 'On the structure of a log smooth pair in the equality case of the Bogomolov-Gieseker inequality', MSJ Autumn Meeting 2021, section of complex analysis, Online, September 2021.[PDF](https://masataka123.github.io/blog3/pdf/2021_09_20.pdf)
-21. 'On the structure of projective manifolds whose tangent bundles are positive.' The hybrid 20th Affine Algebraic Geometry Meeting, hybrid, March 2022. [PDF](https://masataka123.github.io/blog3/pdf/2022_03_02.pdf)
-22. 'Research on structures of complex projective manifolds whose holomorphic tangent bundles are positive.' Award ceremony of OCAMI paper prize in 2021 fiscal year and a special award & a memorial talk, OCAMI(Osaka City University Advanced Mathematical Institute), March 2022. [PDF](https://masataka123.github.io/blog3/pdf/2022_03_16.pdf)
-
-### **Apr. 2018--Mar. 2020**
+### **Apr. 2018--Mar. 2022**
 1. 'On the global generation of direct images of pluri-adjoint line bundles' HAYAMA Symposium on Complex Analysis in Several Variables XX (night session), Shonan Village Center, Kanagawa, July. 2018. [slide](https://masataka123.github.io/blog3/pdf/2018_07_16.pdf)
 2. 'On the global generation of direct images of pluri-adjoint line bundles' MSJ Autumn Meeting 2018, section of complex analysis, Okayama University, Okayama, September 2018. [slide](https://masataka123.github.io/blog3/pdf/2018_09_24_g.pdf)
 3. 'Vanishing theorems of vector bundles with singular Hermitian metrics' MSJ Autumn Meeting 2018, section of complex analysis, Okayama University, Okayama, September 2018. [slide](https://masataka123.github.io/blog3/pdf/2018_09_24_vani.pdf)
@@ -32,6 +22,14 @@
 12. 'Projective manifolds with pseudo-effective tangent bundles', 62th Symposium of complex analysis , Nagoya, November, 2019.[PDF](https://masataka123.github.io/blog3/pdf/2019_11_02.pdf)
 13. 'Description of Bauer-Pignatelli "Rigid but not infinitesimally rigid compact complex manifolds"', Kodaira's Theory on Complex Manifolds and its Development, Osaka City University, Osaka, December, 2019.
 14. 'Foliation theory in algebraic geometry', Line bundles and plurisubharmonic functions on complex algebraic manifolds, Tohoku University, Miyagi, February, 2020.
+15. 'On asymptotic base loci of relative anti-canonical divisors of algebraic fiber spaces', MSJ Autumn Meeting 2020, section of complex analysis, Online, September 2020. [slide](https://masataka123.github.io/blog3/pdf/2020_09_22.pdf)
+16. 'On asymptotic base loci of relative anti-canonical divisors', Winter seminar on several complex variables, Online, December. 2020. [PDF](https://masataka123.github.io/blog3/pdf/2020_12_17.pdf)
+17. 'On projective manifolds whose tangent bundles contain positive subbundles', Grauert theory and recent complex geometry , Online, February. 2021. [PDF](https://masataka123.github.io/blog3/pdf/2021_02_06.pdf)
+18. On projective manifolds whose tangent bundles contain positive subbundles', MSJ Meeting 2021, section of complex analysis, Online, March 2021. [PDF](https://masataka123.github.io/blog3/pdf/2021_03_12.pdf)
+19. 'On the structure of a log smooth pair in the equality case of the Bogomolov-Gieseker inequality',Algebraic Geometry Symposium in Waseda University, Online, August 2021. [slide](https://masataka123.github.io/blog3/pdf/2021_08_20.pdf) 
+20. 'On the structure of a log smooth pair in the equality case of the Bogomolov-Gieseker inequality', MSJ Autumn Meeting 2021, section of complex analysis, Online, September 2021.[PDF](https://masataka123.github.io/blog3/pdf/2021_09_20.pdf)
+21. 'On the structure of projective manifolds whose tangent bundles are positive.' The hybrid 20th Affine Algebraic Geometry Meeting, hybrid, March 2022. [PDF](https://masataka123.github.io/blog3/pdf/2022_03_02.pdf)
+22. 'Research on structures of complex projective manifolds whose holomorphic tangent bundles are positive.' Award ceremony of OCAMI paper prize in 2021 fiscal year and a special award & a memorial talk, OCAMI(Osaka City University Advanced Mathematical Institute), March 2022. [PDF](https://masataka123.github.io/blog3/pdf/2022_03_16.pdf)
 
 ## **Seminars**
 
