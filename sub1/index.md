@@ -14,7 +14,7 @@
 - Mar. 2015 B.S. in Mathematics, the University of Tokyo.
 
 ## **Grants**
-- Apr. 2022--Mar. 2028: Grant-in-Aid for Early-Career Scientists (Grant No. 22K13907), Japan Society for the Promotion of Science [Link](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22K13907/)
+- Apr. 2022--Mar. 2027: Grant-in-Aid for Early-Career Scientists (Grant No. 22K13907), Japan Society for the Promotion of Science [Link](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-22K13907/)
 - Apr. 2017--Mar. 2020: Grant-in-Aid for JSPS Fellows, DC1. (Grant No. 17J04457). [Link](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-17J04457/)
 
 ## **Awards**
