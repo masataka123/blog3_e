@@ -36,6 +36,7 @@
 ### **Apr. 2022--**
 7. 'Abundance theorem for minimal projective manifolds with vanishing second Chern classes', Geometry Seminar, Osaka University+Online, April. 2022.
 8. 'Abundance theorem for minimal projective manifolds with vanishing second Chern classes', Algebraic Geometry Seminar in the University of Tokyo and Kyoto University, Online, May. 2022.
+9. 'Fujita decomposition theorem for pseudo-effective reflexive sheaves and its applications.' University of Bayreuth, July. 2022.
 
 ### **Apr. 2018--Mar. 2022**
 1.  'Vanishing theorems of vector bundles with singular Hermitian metrics'  Geometry Seminar, Nagoya University, Aichi, May. 2018. [slide](https://masataka123.github.io/blog3/pdf/2018_05_29.pdf)
