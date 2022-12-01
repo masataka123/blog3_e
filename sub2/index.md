@@ -7,9 +7,10 @@
 4. Masataka Iwai. 'Characterization of pseudo-effective vector bundles by singular Hermitian metrics.' Michigan Mathematical Journal. (2021) DOI:10.1307/mmj/20195833. [arXiv](https://arxiv.org/abs/1804.02146) [Article link](https://projecteuclid.org/journals/michigan-mathematical-journal/advance-publication/Characterization-of-Pseudo-Effective-Vector-Bundles-by-Singular-Hermitian-Metrics/10.1307/mmj/20195833.short)
 5. Masataka Iwai. 'Almost nef regular foliations and Fujita's decomposition of reflexive sheaves.' Annali della Scuola Normale Superiore di Pisa, Classe di Scienze. (2022) VOL. XXIII, ISSUE 2 719-743 DOI: 10.2422/2036-2145.202010_055 [arXiv](https://arxiv.org/abs/2007.13954) [Article link](https://journals.sns.it/index.php/annaliscienze/article/view/4935)
 6. Sho Ejiri, Masataka Iwai, Shin-ichi Matsumura. 'On asymptotic base loci of relative anti-canonical divisors of algebraic fiber spaces.' to appear in Journal of Algebraic Geometry. [arXiv](https://arxiv.org/abs/2005.04566)
+7. Masataka Iwai. 'On the structure of a log smooth pair in the equality case of the Bogomolov-Gieseker inequality' to appear in Annales de l'Institut Fourier.[arXiv](https://arxiv.org/abs/2103.08779) [source code of Remark 5.3](https://github.com/masataka123/math/blob/master/chern.ipynb)
 
 # **Preprints**
-- Masataka Iwai. 'On the structure of a log smooth pair in the equality case of the Bogomolov-Gieseker inequality' [arXiv](https://arxiv.org/abs/2103.08779) [source code of Remark 5.3](https://github.com/masataka123/math/blob/master/chern.ipynb)
+
 - Masataka Iwai, Shin-ichi Matsumura. 'Abundance theorem for minimal compact Kahler manifolds with vanishing second Chern class.' [arXiv](https://arxiv.org/abs/2205.10613)
 
 # **Papers and preprints in other fields**
