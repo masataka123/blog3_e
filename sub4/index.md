@@ -7,6 +7,6 @@
 - [Takahiro Saito](https://www.kurims.kyoto-u.ac.jp/~takahiro/)
 - [Keita Mikami](http://ithems-members.riken.jp/mikami/)
 - [Hokuto Konno](http://ithems-members.riken.jp/konno/eng_index.html)
-- [Michiya Mori](http://ithems-members.riken.jp/mori/)
+- [Michiya Mori](https://www.ms.u-tokyo.ac.jp/~mmori/index.html)
 - [Tomohiro Hayase](https://thayafluss.github.io)
 - [Yuya Takeuchi](https://sites.google.com/view/yuya-takeuchi-japanese/)
