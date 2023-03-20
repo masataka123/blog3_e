@@ -7,7 +7,7 @@
 23. 'Abundance theorem for minimal compact Kahler manifolds with vanishing second Chern class' [Workshop on Complex Analysis and Geometry](https://grauert-tubes-2022.esaga.net), Essen University, June 2022.
 24. 'Abundance theorem for minimal compact Kahler manifolds with vanishing second Chern class' [69th Geometry Symposium](https://www.mathsoc.jp/~geometry/symp_schedule/geometry_symposium_2022.html) Tokyo University of Science, August 2022.  [slide](https://masataka123.github.io/blog3/pdf/2022_08_31_Geometry_Symp_2022_slide.pdf)
 25. 'Abundance theorem for minimal compact Kahler manifolds with vanishing second Chern class' [The 28th Symposium on Complex Geometry ](https://u-lab.my-pharm.ac.jp/~noda/cnf/kanazawa28e.html), Shiinoki Cultural Complex, Ishikawa Prefecture, November 2022.
-
+26. 'Structure theorem of complex projective manifolds whose curvature is semipositive', 18th algebraic, analytic, geometry seminar, Online, February, 2023.
 ### **Apr. 2018--Mar. 2022**
 1. 'On the global generation of direct images of pluri-adjoint line bundles' HAYAMA Symposium on Complex Analysis in Several Variables XX (night session), Shonan Village Center, Kanagawa, July. 2018. [slide](https://masataka123.github.io/blog3/pdf/2018_07_16.pdf)
 2. 'On the global generation of direct images of pluri-adjoint line bundles' MSJ Autumn Meeting 2018, section of complex analysis, Okayama University, Okayama, September 2018. [slide](https://masataka123.github.io/blog3/pdf/2018_09_24_g.pdf)
@@ -32,6 +32,8 @@
 21. 'On the structure of projective manifolds whose tangent bundles are positive.' The hybrid 20th Affine Algebraic Geometry Meeting, hybrid, March 2022. [PDF](https://masataka123.github.io/blog3/pdf/2022_03_02.pdf)
 22. 'Research on structures of complex projective manifolds whose holomorphic tangent bundles are positive.' Award ceremony of OCAMI paper prize in 2021 fiscal year and a special award & a memorial talk, OCAMI(Osaka City University Advanced Mathematical Institute), March 2022. [PDF](https://masataka123.github.io/blog3/pdf/2022_03_16.pdf)
 
+
+
 ## **Seminars**
 
 ### **Apr. 2022--**
@@ -50,10 +52,12 @@
 6. 'On the structure of a log smooth pair in the equality case of the Bogomolov-Gieseker inequality', Geometry Seminar in Tohoku University, Online, July. 2021. [PDF](https://masataka123.github.io/blog3/pdf/2021_07_13.pdf)
 
 
+
 # **Organizing**
 1. Line bundles and plurisubharmonic functions on complex algebraic manifolds', Tohoku University, Miyagi, February, 2020. (with T. Koike) [link](https://tkoike.com/conf_2020/2020Febtouhoku.html)
 2. ”Prospects and Open Problems in Higher-dimensional Algebraic Geometry", Osaka City University, Osaka, March, 2020. (with Y.Gongyo, S. Matsumura and T. Koike) , (canceled by covid-19 outbreak.) [link](http://ktakayuki.github.io/conf2019_2/phdagop.html)
 3. "Subvarieties and foliations of complex projective varieties", Online(Osaka City University), February, 2022. (with T. Ohsawa and T. Koike) [link](https://tkoike.com/conf_2021/2022Feb.html). 
+4. "Workshop on Complex Geometry in Osaka 2023", Osaka University, March, 2023. (with H. Kasuya) [link](https://sites.google.com/site/hisashikasuyamath/workshop-on-complex-geometry-in-osaka-2023?authuser=0)
 
 # **Others**
 1. 2019年度大阪市立大学共同利用・共同研究(A) 「標準束の幾何学」 共同研究の提案者・研究代表 [link](http://www.sci.osaka-cu.ac.jp/OCAMI/joint/joint-usage.html) 
