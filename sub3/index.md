@@ -60,6 +60,7 @@
 2. ”Prospects and Open Problems in Higher-dimensional Algebraic Geometry", Osaka City University, Osaka, March, 2020. (with Y.Gongyo, S. Matsumura and T. Koike) , (canceled by covid-19 outbreak.) [link](http://ktakayuki.github.io/conf2019_2/phdagop.html)
 3. "Subvarieties and foliations of complex projective varieties", Online(Osaka City University), February, 2022. (with T. Ohsawa and T. Koike) [link](https://tkoike.com/conf_2021/2022Feb.html). 
 4. "Workshop on Complex Geometry in Osaka 2023", Osaka University, March, 2023. (with H. Kasuya) [link](https://sites.google.com/site/hisashikasuyamath/workshop-on-complex-geometry-in-osaka-2023?authuser=0)
+5. "Geometry Seminar in Osaka University" Osaka University, From April, 2023.
 
 # **Others**
 1. 2019年度大阪市立大学共同利用・共同研究(A) 「標準束の幾何学」 共同研究の提案者・研究代表 [link](http://www.sci.osaka-cu.ac.jp/OCAMI/joint/joint-usage.html) 
