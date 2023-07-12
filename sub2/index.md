@@ -15,6 +15,8 @@
 
 - Masataka Iwai, Chen Jiang, Haidong Liu. 'Miyaoka type inequality for terminal threefolds with nef anti-canonical divisors.' [arXiv](https://arxiv.org/abs/2303.00268)
 
+- Sho Ejiri, Osamu Fujino, Masataka Iwai 'Positivity of extensions of vector bundles.' [arXiv](https://arxiv.org/abs/2307.05022)
+
 # **Papers and preprints in other fields**
 - Masataka Iwai. ‘地震発生の新しい統計則に関する数理的研究.’ 数理科学実践研究レター(Japanese). [Article link](https://www.ms.u-tokyo.ac.jp/lmsr/pdf/2019-6.pdf)
 - Masataka Iwai, Takahito Kashiwabara, Ichiro Sato and Ryosuke Yano. ‘Earthquake-network in Japan based on Abe-Suzuki model and its characteristics.’ DOI: 10.13140/RG.2.2.12494.61766 [ResearchGate](https://www.researchgate.net/publication/335443738_Earthquake-network_in_Japan_based_on_Abe-Suzuki_model_and_its_1_characteristics_2) 
