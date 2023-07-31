@@ -9,6 +9,7 @@
 25. 'Abundance theorem for minimal compact Kahler manifolds with vanishing second Chern class' [The 28th Symposium on Complex Geometry ](https://u-lab.my-pharm.ac.jp/~noda/cnf/kanazawa28e.html), Shiinoki Cultural Complex, Ishikawa Prefecture, November 2022.
 26. 'Structure theorem of complex projective manifolds whose curvature is semipositive', 18th algebraic, analytic, geometry seminar, Online, February, 2023.
 27. 'On the structure of a log smooth pair with vanishing Chern class.', Workshop on Complex Geometry in Osaka 2023, Osaka University, March, 2023. 
+28. 'On minimal projective manifolds with vanishing second Chern classes', [2023 Pacific Rim Complex & Symplectic Geometry Conference](https://2023prcsg.casconf.cn/page/1625378116333604865), SIENA NARADA GRAND HOTEL(Qingtian Country, Lishui City, Zhenjiang Province),  July, 2023. 
 
 ### **Apr. 2018--Mar. 2022**
 1. 'On the global generation of direct images of pluri-adjoint line bundles' HAYAMA Symposium on Complex Analysis in Several Variables XX (night session), Shonan Village Center, Kanagawa, July. 2018. [slide](https://masataka123.github.io/blog3/pdf/2018_07_16.pdf)
