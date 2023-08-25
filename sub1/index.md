@@ -34,6 +34,8 @@
 ### **2023**
 - Summer 2023, Problem Session for Advanced Complex Analysis (Osaka University)  [Link](https://masataka123.github.io/2023_summer_complex/)
 - Summer 2023, A Door to Academia "Mathematics and Games" (Osaka University)   [Link](https://masataka123.github.io/2023_summer_game/)
+- Winter 2023, Problem Session for Basics of Geometry 2 (Topology) (Osaka University)  [Link](https://masataka123.github.io/2023_winter_generaltopology/)
+- Winter 2023, Basic Linear Algebra (Osaka University) [Link](https://masataka123.github.io/2023_winter_linearalgebra/)
 
 
 ### **2022**
