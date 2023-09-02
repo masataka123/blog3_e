@@ -11,7 +11,7 @@
 - [Tomohiro Hayase](https://thayafluss.github.io)
 - [Yuya Takeuchi](https://sites.google.com/view/yuya-takeuchi-japanese/)
 
-# **数学パズル集**
+# **Puzzles**
 
 - [Mad Professor?](https://masataka123.github.io/blog3/sub6/2023_1_Alps/)
 - [Points on a circle](https://masataka123.github.io/blog3/sub6/2023_3_circle/)
