@@ -14,5 +14,5 @@
 # **Puzzles**
 
 - [Mad Professor?](https://masataka123.github.io/blog3_e/sub4/2023_1_Alps/)
-- [Points on a circle](https://masataka123.github.io/blog3_e/sub4/2023_3_circle/)
+- [Points on a unit circle](https://masataka123.github.io/blog3_e/sub4/2023_3_circle/)
 - [Nim](https://masataka123.github.io/blog3_e/sub4/2023_4_game/)
