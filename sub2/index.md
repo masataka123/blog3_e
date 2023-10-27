@@ -8,12 +8,11 @@
 5. Masataka Iwai. 'Almost nef regular foliations and Fujita's decomposition of reflexive sheaves.' Annali della Scuola Normale Superiore di Pisa, Classe di Scienze. (2022) VOL. XXIII, ISSUE 2 719-743 DOI: 10.2422/2036-2145.202010_055 [arXiv](https://arxiv.org/abs/2007.13954) [Article link](https://journals.sns.it/index.php/annaliscienze/article/view/4935)
 6. Sho Ejiri, Masataka Iwai, Shin-ichi Matsumura. 'On asymptotic base loci of relative anti-canonical divisors of algebraic fiber spaces.' Journal of Algebraic Geometry. (2023) DOI: https://doi.org/10.1090/jag/814 [arXiv](https://arxiv.org/abs/2005.04566) [Article Link](https://www.ams.org/journals/jag/0000-000-00/S1056-3911-2023-00814-8/)
 7. Masataka Iwai. 'On the structure of a log smooth pair in the equality case of the Bogomolov-Gieseker inequality' to appear in Annales de l'Institut Fourier.[arXiv](https://arxiv.org/abs/2103.08779) [source code of Remark 5.3](https://github.com/masataka123/math/blob/master/chern.ipynb)
+8. Masataka Iwai, Chen Jiang, Haidong Liu. 'Miyaoka type inequality for terminal threefolds with nef anti-canonical divisors.' to appear in SCIENCE CHINA Mathematics. [arXiv](https://arxiv.org/abs/2303.00268)
 
 # **Preprints**
 
 - Masataka Iwai, Shin-ichi Matsumura. 'Abundance theorem for minimal compact Kahler manifolds with vanishing second Chern class.' [arXiv](https://arxiv.org/abs/2205.10613)
-
-- Masataka Iwai, Chen Jiang, Haidong Liu. 'Miyaoka type inequality for terminal threefolds with nef anti-canonical divisors.' [arXiv](https://arxiv.org/abs/2303.00268)
 
 - Sho Ejiri, Osamu Fujino, Masataka Iwai 'Positivity of extensions of vector bundles.' [arXiv](https://arxiv.org/abs/2307.05022)
 

@@ -8,7 +8,7 @@ This is Masataka Iwai's Homepage.
 A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3/)
 
 ## **Schedule**
-- On 10th May, 2023,  I submitted a new preprint. [arXiv](https://arxiv.org/abs/2303.00268) This is a joint work with Chen Jiang and Haidong Liu. 
+- On 10th May, 2023,  I submitted a new preprint. [arXiv](https://arxiv.org/abs/2303.00268) This is a joint work with Chen Jiang and Haidong Liu, This paper is to appear in SCIENCE CHINA Mathematics. 
 - On 12th July, 2023,  I submitted a new preprint. [arXiv](https://arxiv.org/abs/2307.05022) This is a joint work with Sho Ejiri and Osamu Fujino.
 - On 19th September, 2023,  I submitted a new preprint. [arXiv](https://arxiv.org/abs/2309.09489) This is a joint work with Shin-ichi Matsumura and Guolei Zhong.
 - In 13th-15th March, 2024, we will hold [Workshop on Complex Geometry in Osaka 2024](https://masataka123.github.io/complexgeometry_osaka_2024/) in Osaka University.
