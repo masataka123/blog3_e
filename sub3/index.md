@@ -11,6 +11,7 @@
 27. 'On the structure of a log smooth pair with vanishing Chern class.', Workshop on Complex Geometry in Osaka 2023, Osaka University, March, 2023. 
 28. 'On minimal projective manifolds with vanishing second Chern classes', [2023 Pacific Rim Complex & Symplectic Geometry Conference](https://2023prcsg.casconf.cn/page/1625378116333604865), SIENA NARADA GRAND HOTEL(Qingtian Country, Lishui City, Zhenjiang Province),  July, 2023. [PDF](https://masataka123.github.io/blog3/pdf/2023_07_26_PacificRim.pdf)
 29. 'Positivity of tangent sheaves of projective klt varieties'  [The 29th Symposium on Complex Geometry](https://u-lab.my-pharm.ac.jp/~noda/cnf/kanazawa29e.html), Shiinoki Cultural Complex, Ishikawa Prefecture, 4th--8th December 2023. [PDF](https://masataka123.github.io/blog3/pdf/2023_12_05_29thSymposium_CG.pdf)
+30. 'Positivity of tangent sheaves of projective klt varieties' [Young Perspectives on Algebraic Geometry](http://www.jliumath.com/conferences/2023PAG.html), Academy of Mathematics and Systems Science, Chinese Academy of Sciences. 9th--11th December 2023.
 
 
 ### **Apr. 2018--Mar. 2022**
