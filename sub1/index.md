@@ -31,6 +31,12 @@
 
 ## **Teaching**
 
+### **2024**
+- Summer 2024, Linear Algebra 1 (Osaka University)
+- Summer 2024, Basic Calculas (Osaka University)
+- Winter 2024, Basic Linear Algebra (Osaka University) 
+- Winter 2024, Problem Session for Introduction to Geometry (Differentiable manifolds) (Osaka University) 
+
 ### **2023**
 - Summer 2023, Problem Session for Advanced Complex Analysis (Osaka University)  [Link](https://masataka123.github.io/2023_summer_complex/)
 - Summer 2023, A Door to Academia "Mathematics and Games" (Osaka University)   [Link](https://masataka123.github.io/2023_summer_game/)
