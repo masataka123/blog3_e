@@ -8,10 +8,7 @@ This is Masataka Iwai's Homepage.
 A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3/)
 
 ## **Schedule**
-- On 10th May, 2023,  I submitted a new preprint. [arXiv](https://arxiv.org/abs/2303.00268) This is a joint work with Chen Jiang and Haidong Liu, This paper is to appear in SCIENCE CHINA Mathematics. 
-- On 12th July, 2023,  I submitted a new preprint. [arXiv](https://arxiv.org/abs/2307.05022) This is a joint work with Sho Ejiri and Osamu Fujino. This paper is to appear in Mathematische Zeitschrift.
 - On 19th September, 2023,  I submitted a new preprint. [arXiv](https://arxiv.org/abs/2309.09489) This is a joint work with Shin-ichi Matsumura and Guolei Zhong.
-- In 13th-15th March, 2024, we will hold [Workshop on Complex Geometry in Osaka 2024](https://masataka123.github.io/complexgeometry_osaka_2024/) in Osaka University.
 
 ## **Home**
 - I'm Masataka Iwai, an assistant professor in Department of Mathematics, Graduate School of Science, Osaka University. [Link](http://www.math.sci.osaka-u.ac.jp/eng/staff.html)
@@ -25,7 +22,7 @@ I proved the abundance conjecture for minimal projective manifolds with nef cota
 
 Also, I studied relative anti-canonical divisors and relative versions of Fujita's conjecture.
 <!--- - I study the structures of complex projective manifolds whose tangent bundles are "positive" (such as nef, big, pseudo-effective, and so on) and the morphisms between smooth projective varieties by using singular Hermitian metrics. -->
-![](https://masataka123.github.io/blog3_e/picture/1.jpg )
+![](https://masataka123.github.io/blog3_e/picture/4.jpg )
 
 ## **Others**
 - Name: Masataka Iwai
