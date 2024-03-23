@@ -16,6 +16,7 @@
 - [Mad Professor?](https://masataka123.github.io/blog3_e/sub4/1_Alps/)
 - [Points on a unit circle](https://masataka123.github.io/blog3_e/sub4/3_circle/)
 - [Nim](https://masataka123.github.io/blog3_e/sub4/4_game/)
+- [Kontsevich's puzzle](https://masataka123.github.io/blog3_e/sub4/5_Kontsevich/)
 - [Matrix](https://masataka123.github.io/blog3_e/sub4/6_matrix/)
 
 # **Others**
