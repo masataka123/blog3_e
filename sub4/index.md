@@ -18,6 +18,8 @@
 - [Nim](https://masataka123.github.io/blog3_e/sub4/4_game/)
 - [Kontsevich's puzzle](https://masataka123.github.io/blog3_e/sub4/5_Kontsevich/)
 - [Matrix](https://masataka123.github.io/blog3_e/sub4/6_matrix/)
+- [Chessboard 1](https://masataka123.github.io/blog3_e/sub4/7_chess1/)
+- [Chessboard 2](https://masataka123.github.io/blog3_e/sub4/8_chess2/)
 
 # **Others**
 - [Game of Life](https://masataka123.github.io/blog3_e/sub4/conway/)
