@@ -26,7 +26,7 @@
 - [Hisashi Kasuya](https://sites.google.com/site/hisashikasuyamath/home)
 - [Yoshihiko Matsumoto](http://www4.math.sci.osaka-u.ac.jp/~matsumoto/)
 - [Makoto Miura](https://sites.google.com/view/makoto-miura/home)  Miura's Game:[Solo-Cat Game](https://miurror.net/solocat/)
-- [Yasuda Takehiko](http://www4.math.sci.osaka-u.ac.jp/~takehikoyasuda/jp/) Yasuda's Game:[Euler Getter](http://www4.math.sci.osaka-u.ac.jp/~takehikoyasuda/jp/EG/)
+- [Yasuda Takehiko](http://www4.math.sci.osaka-u.ac.jp/~takehikoyasuda/) Yasuda's Game:[Euler Getter](http://www4.math.sci.osaka-u.ac.jp/~takehikoyasuda/EG/)
 
 # **Puzzles**
 
