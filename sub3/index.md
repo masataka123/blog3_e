@@ -69,7 +69,7 @@
 6. "Problems on foliations and dynamics in complex geometry" RIMS,  November, 2023. (with T. Ohsawa, T. Koike, M. Adachi,  S. Hamano) [Link](https://tkoike.com/conf_2023/2023Nov.html)
 7. "Workshop on Complex Geometry in Osaka 2024", Osaka University, March, 2024. (with H. Kasuya) [Link](https://masataka123.github.io/complexgeometry_osaka_2024/)
 8. "New developments in Kobayashi–Hitchin correspondence and Higgs bundles", Osaka Metropolitan University, August, 2024. (with H. Kasuya, Y. Hashimoto, N. Miyatake) [Link](https://masataka123.github.io/Kobayashi_Hitchin/)
-9. "Workshop on Algebraic Geometry over complex number field or in positive characteristic -Around positivity of tangent sheaves and anti-canoncal divisors- " Osaka Metropolitan University, August, 2024. (S. Ejiri, T. Koike, K. Sato, S. Matsumura, Y. Matsuzawa) [Link](https://masataka123.github.io/tangent_anticanonical/)
+9. "Workshop on Algebraic Geometry over complex number field or in positive characteristic -Around positivity of tangent sheaves and anti-canonical divisors- " Osaka Metropolitan University, August, 2024. (S. Ejiri, T. Koike, K. Sato, S. Matsumura, Y. Matsuzawa) [Link](https://masataka123.github.io/tangent_anticanonical/)
 
 ## **Seminar**
 5. "Geometry Seminar in Osaka University" Osaka University, April, 2023. 20 talks
