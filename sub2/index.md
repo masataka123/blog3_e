@@ -18,6 +18,8 @@
 
 - Masataka Iwai, Shin-ichi Matsumura, Guolei Zhong 'Positivity of tangent sheaves of projective varieties -- the structure of MRC fibrations.'  [arXiv](https://arxiv.org/abs/2309.09489)
 
+- Masataka Iwai, Shin-ichi Matsumura, Niklas Müller 'Abundance theorem for minimal projective varieties satisfying Miyaoka's equality.'  [arXiv](https://arxiv.org/abs/2404.07568)
+
 
 # **Papers and preprints in other fields**
 - Masataka Iwai. ‘地震発生の新しい統計則に関する数理的研究.’ 数理科学実践研究レター(Japanese). [Article link](https://www.ms.u-tokyo.ac.jp/lmsr/pdf/2019-6.pdf)
