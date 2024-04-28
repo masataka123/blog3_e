@@ -8,8 +8,9 @@ This is Masataka Iwai's Homepage.
 A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3/)
 
 ## **Schedule**
-- On 19th September, 2023,  I submitted a new preprint. [arXiv](https://arxiv.org/abs/2309.09489) This is a joint work with Shin-ichi Matsumura and Guolei Zhong.
 - On 12th April, 2024, I submitted a new preprint. [arXiv](https://arxiv.org/abs/2404.07568) This is a joint work with Shin-ichi Matsumura and Niklas Müller.
+-  On 27th—28th May 2024, we will hold a workshop: [Mini-workshop on Higgs bundles](https://masataka123.github.io/miniworkshop_Higgs/)
+- On 5th—8th August 2024, we will hold a workshop: [New developments in Kobayashi–Hitchin correspondence and Higgs bundles](https://masataka123.github.io/Kobayashi_Hitchin/)
 - On 17th--20th September, 2024, we will hold a workshop: [Workshop on Algebraic Geometry over complex number field or in positive characteristic -Around positivity of tangent sheaves and anti-canonical divisors-](https://masataka123.github.io/tangent_anticanonical/)
 
 <!--
