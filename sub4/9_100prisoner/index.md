@@ -4,5 +4,4 @@ The director of a prison offers 100 death row prisoners, who are numbered from 1
 
 ## Comments
 This puzzle is known as [100 prisoners problem](https://en.wikipedia.org/wiki/100_prisoners_problem)
-
-
+Also you can  see the answer in the Ted Education's Youtube: [Can you solve the prisoner boxes riddle?](https://www.youtube.com/watch?v=vIdStMTgNl0). 
