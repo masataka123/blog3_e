@@ -71,7 +71,8 @@
 7. "Workshop on Complex Geometry in Osaka 2024", Osaka University, March, 2024. (with H. Kasuya) [Link](https://masataka123.github.io/complexgeometry_osaka_2024/)
 8. "Mini-workshop on Higgs bundles", Osaka University, May, 2024. (with H. Kasuya, Y. Hashimoto, N. Miyatake) [Link](https://masataka123.github.io/miniworkshop_Higgs/)
 8. "New developments in Kobayashi–Hitchin correspondence and Higgs bundles", Osaka  University, August, 2024. (with H. Kasuya, Y. Hashimoto, N. Miyatake) [Link](https://masataka123.github.io/Kobayashi_Hitchin/)
-9. "Workshop on Algebraic Geometry over complex number field or in positive characteristic -Around positivity of tangent sheaves and anti-canonical divisors- " Osaka Metropolitan University, August, 2024. (S. Ejiri, T. Koike, K. Sato, S. Matsumura, Y. Matsuzawa) [Link](https://masataka123.github.io/tangent_anticanonical/)
+9. "Workshop on Algebraic Geometry over complex number field or in positive characteristic -Around positivity of tangent sheaves and anti-canonical divisors- " Osaka Metropolitan University, August, 2024. (with S. Ejiri, T. Koike, K. Sato, S. Matsumura, Y. Matsuzawa) [Link](https://masataka123.github.io/tangent_anticanonical/)
+10. "Winter seminar of Several Complex Variables in 2024" Osaka University, December, 2024.  (with Y. Matsumoto) [Link](https://masataka123.github.io/2024scvwinter/)
 
 ## **Seminar**
 5. "Geometry Seminar in Osaka University" Osaka University, April, 2023. 20 talks
