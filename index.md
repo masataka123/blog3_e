@@ -10,7 +10,7 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 ## **Schedule**
 - On 12th April, 2024, I submitted a new preprint. [arXiv](https://arxiv.org/abs/2404.07568) This is a joint work with Shin-ichi Matsumura and Niklas Müller.
 - On 17th--20th September, 2024, we will hold a workshop: [Workshop on Algebraic Geometry over complex number field or in positive characteristic -Around positivity of tangent sheaves and anti-canonical divisors-](https://masataka123.github.io/tangent_anticanonical/)
-
+- On 13th--25th December 2024, we will hold a workshop: [Winter seminar of Several Complex Variables in 2024](https://masataka123.github.io/2024scvwinter/)
 <!--
 - On 5th-9th August 2024, we will hold a workshop: [New developments in Kobayashi–Hitchin correspondence and Higgs bundles](https://masataka123.github.io/Kobayashi_Hitchin/)
 -->
