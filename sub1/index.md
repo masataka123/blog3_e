@@ -34,8 +34,8 @@
 ### **2024**
 - Summer 2024, Linear Algebra 1 (Osaka University) [Link](https://masataka123.github.io/2024_summer_linear_algebra/)
 - Summer 2024, Basic Calculas (Osaka University) [Link](https://masataka123.github.io/2024_summer_calculus/)
-- Winter 2024, Basic Linear Algebra (Osaka University) 
-- Winter 2024, Problem Session for Introduction to Geometry (Differentiable manifolds) (Osaka University) 
+- Winter 2024, Basic Linear Algebra (Osaka University) [Link](https://masataka123.github.io/2024_winter_linear_algebra/)
+- Winter 2024, Problem Session for Introduction to Geometry (Differentiable manifolds) (Osaka University) [Link](https://masataka123.github.io/2024_winter_geometry1/)
 
 ### **2023**
 - Summer 2023, Problem Session for Advanced Complex Analysis (Osaka University)  [Link](https://masataka123.github.io/2023_summer_complex/)
