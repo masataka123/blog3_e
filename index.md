@@ -9,7 +9,9 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 
 ## **News**
 - On 12th April, 2024, I submitted a new preprint. [arXiv](https://arxiv.org/abs/2404.07568) This is a joint work with Shin-ichi Matsumura and Niklas Müller.
+<!--
 - On 13th--15th December 2024, we will hold a workshop: [Winter seminar of Several Complex Variables in 2024](https://masataka123.github.io/2024scvwinter/)
+-->
 
 ## **Home**
 - I'm Masataka Iwai, an assistant professor in Department of Mathematics, Graduate School of Science, Osaka University. [Link](http://www.math.sci.osaka-u.ac.jp/eng/staff.html)
