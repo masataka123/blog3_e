@@ -20,6 +20,12 @@
 
 - Masataka Iwai, Shin-ichi Matsumura, Niklas Müller 'Minimal projective varieties satisfying Miyaoka's equality.'  [arXiv](https://arxiv.org/abs/2404.07568)
 
+# **Note**
+- [Remarks on minimal compact Kahler manifolds with vanishing second Chern class](https://masataka123.github.io/blog3/pdf/Torus_fibration_c2=0.pdf)
+ This is a remark about 'Abundance theorem for minimal compact Kahler manifolds with vanishing second Chern class.' 
+ 
+- [Remarks on Miyaoka's inequality for compact Kahler manifolds](https://masataka123.github.io/blog3/pdf/Miyaoka_inequality_kahler.pdf)
+This is a remark about 'Minimal projective varieties satisfying Miyaoka's equality.'
 
 # **Papers and preprints in other fields**
 - Masataka Iwai. ‘地震発生の新しい統計則に関する数理的研究.’ 数理科学実践研究レター(Japanese). [Article link](https://www.ms.u-tokyo.ac.jp/lmsr/pdf/2019-6.pdf)

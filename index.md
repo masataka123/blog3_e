@@ -17,6 +17,20 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 -->
 
 ## **Home**
+- Name: Masataka Iwai
+- Major: complex geometry, algebraic geometry, several complex variables
+- Email: masataka[at]math.sci.osaka-u.ac.jp, masataka.math[at]gmail.com 
+- Affiliation: Department of Mathematics, Graduate School of Science, Osaka University 
+- Address : 1-1 Machikaneyama-cho, Toyonaka, Osaka 560-0043, Japan
+
+I am an assistant professor, so under the current system, I am not allowed to supervise master's or doctoral students.
+Therefore, sending me an email saying, "I want to study under you" serves no purpose.
+I will ignore such emails.
+
+<!--- - I study the structures of complex projective manifolds whose tangent bundles are "positive" (such as nef, big, pseudo-effective, and so on) and the morphisms between smooth projective varieties by using singular Hermitian metrics. -->
+![](https://masataka123.github.io/blog3_e/picture/4.jpg )
+
+## **Information**
 - I'm Masataka Iwai, an assistant professor in Department of Mathematics, Graduate School of Science, Osaka University. [Link](http://www.math.sci.osaka-u.ac.jp/eng/staff.html)
 - I'm majoring in complex geometry, algebraic geometry, and several complex variables.
 - I'm interested in these topics:
@@ -27,15 +41,8 @@ Recently, I studied the structure of log smooth pairs whose logarithmic tangent 
 I proved the abundance conjecture for minimal projective manifolds with nef cotangent bundles whose numerical Kodaira dimension is one and I established the structure theorem for this projective manifolds.
 
 Also, I studied relative anti-canonical divisors and relative versions of Fujita's conjecture.
-<!--- - I study the structures of complex projective manifolds whose tangent bundles are "positive" (such as nef, big, pseudo-effective, and so on) and the morphisms between smooth projective varieties by using singular Hermitian metrics. -->
-![](https://masataka123.github.io/blog3_e/picture/4.jpg )
 
 ## **Others**
-- Name: Masataka Iwai
-- Major: complex geometry, algebraic geometry, several complex variables
-- Email: masataka[at]math.sci.osaka-u.ac.jp, masataka.math[at]gmail.com 
-- Affiliation: Department of Mathematics, Graduate School of Science, Osaka University 
-- Address : 1-1 Machikaneyama-cho, Toyonaka, Osaka 560-0043, Japan
 - [Google Scholar](https://scholar.google.com/citations?hl=ja&user=ZTKnR6QAAAAJ)
 - [ORCiD](https://orcid.org/0000-0002-0273-0360)
 - [Research Map](https://researchmap.jp/Masataka_iwai)
