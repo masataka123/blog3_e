@@ -18,7 +18,7 @@
 29. 'Positivity of tangent sheaves of projective klt varieties'  [The 29th Symposium on Complex Geometry](https://u-lab.my-pharm.ac.jp/~noda/cnf/kanazawa29e.html), Shiinoki Cultural Complex, Ishikawa Prefecture, 4th--8th December 2023. [PDF](https://masataka123.github.io/blog3/pdf/2023_12_05_29thSymposium_CG.pdf)
 30. 'Positivity of tangent sheaves of projective klt varieties' [Young Perspectives on Algebraic Geometry](http://www.jliumath.com/conferences/2023PAG.html), Academy of Mathematics and Systems Science, Chinese Academy of Sciences. 9th--11th December 2023.
 31. ''Complex projective manifolds satisfying Miyaoka's equality' [SCV, CR geometry and Dynamics](https://math.univ-cotedazur.fr/~stolo/conf/SCVCRDyn24.html), RIMS. 25th--29th November 2024.
-32. "Condensed sets and topological spaces (Commentary on Scholz's Lecture Notes, Chapter 2, Appendix)" [Condensed mathematics Workshop](https://sites.google.com/view/condmathomu/home) Osaka Metropolitan University, February, 2025[PDF](https://masataka123.github.io/blog3/pdf/2025_02_18_Condensed_Mathmatics_発表原稿.pdf)
+32. "Condensed sets and topological spaces (Commentary on Scholz's Lecture Notes, Chapter 2, Appendix)" [Condensed mathematics Workshop](https://sites.google.com/view/condmathomu/home) Osaka Metropolitan University, February, 2025[PDF](https://masataka123.github.io/blog3/pdf/2025_02_18_Condensed_Mathmatics_talk.pdf)
 
 ### **Apr. 2018--Mar. 2022**
 1. 'On the global generation of direct images of pluri-adjoint line bundles' HAYAMA Symposium on Complex Analysis in Several Variables XX (night session), Shonan Village Center, Kanagawa, July. 2018. [slide](https://masataka123.github.io/blog3/pdf/2018_07_16.pdf)
