@@ -24,8 +24,11 @@
 - [Remarks on minimal compact Kahler manifolds with vanishing second Chern class](https://masataka123.github.io/blog3/pdf/Torus_fibration_c2=0.pdf)
  This is a remark about 'Abundance theorem for minimal compact Kahler manifolds with vanishing second Chern class.' 
  
- - [Condenced Mathmatics note](https://masataka123.github.io/blog3/pdf/2025_02_18_Condensed_Mathmatics_seminarnote.pdf)
+- [Condenced Mathmatics Section 2. Appendix](https://masataka123.github.io/blog3/pdf/2025_02_18_Condensed_Mathmatics_talk.pdf)
 (Japanese)
+
+- [Condenced Mathmatics summary note](https://masataka123.github.io/blog3/pdf/2025_02_18_Condensed_Mathmatics_seminarnote.pdf)
+ (Japanese)
 
 <!--
 - [Remarks on Miyaoka's inequality for compact Kahler manifolds](https://masataka123.github.io/blog3/pdf/Miyaoka_inequality_kahler.pdf)
