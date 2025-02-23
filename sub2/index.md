@@ -27,6 +27,9 @@
 - [Condenced Mathmatics Section 2. Appendix](https://masataka123.github.io/blog3/pdf/2025_02_18_Condensed_Mathmatics_talk.pdf)
 (Japanese)
 
+-[CG, CGWH note](https://masataka123.github.io/blog3/pdf/2025_02_18_CGWH.pdf)
+(Japanese)
+
 - [Condenced Mathmatics summary note](https://masataka123.github.io/blog3/pdf/2025_02_18_Condensed_Mathmatics_seminarnote.pdf)
  (Japanese)
 
