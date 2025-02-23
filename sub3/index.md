@@ -1,8 +1,7 @@
 
 # **Schedule**
-- I may attend [Progress in Complex Geometry](https://ccg.ibs.re.kr/event/2025-0421-0424/) at IBS-CCG on April 21-25, 2025 (if I afford my research funds).
+- I will attend [Progress in Complex Geometry](https://ccg.ibs.re.kr/event/2025-0421-0424/) at IBS-CCG on April 21-25, 2025 (if I afford my research funds).
 - I will give a talk at the “algebraic geometry conference about MMP, Fano varieties and related topics” to be held at Peking University on June 23-27, 2025. 
-- I may attend [2025 Summer Research Institute in Algebraic Geometry Week 1](https://sites.google.com/view/2025summerinstitute/home/week-1-july-14-18) at Colorado State University on July 14-18, 2025 (If I afford my research funds).
 
 # **Talks**
 
