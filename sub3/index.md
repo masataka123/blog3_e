@@ -1,7 +1,7 @@
 
 # **Schedule**
 - I will attend [Progress in Complex Geometry](https://ccg.ibs.re.kr/event/2025-0421-0424/) at IBS-CCG on April 21-25, 2025 (if I afford my research funds).
-- I will give a talk at the “algebraic geometry conference about MMP, Fano varieties and related topics” to be held at Peking University on June 23-27, 2025. 
+- I will give a talk at the [Workshop on Fano Varieties](https://bicmr.pku.edu.cn/content/show/17-3569.html) to be held at Peking University on June 23-27, 2025. 
 
 # **Talks**
 
