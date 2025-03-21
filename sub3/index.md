@@ -18,6 +18,8 @@
 30. 'Positivity of tangent sheaves of projective klt varieties' [Young Perspectives on Algebraic Geometry](http://www.jliumath.com/conferences/2023PAG.html), Academy of Mathematics and Systems Science, Chinese Academy of Sciences. 9th--11th December 2023.
 31. ''Complex projective manifolds satisfying Miyaoka's equality' [SCV, CR geometry and Dynamics](https://math.univ-cotedazur.fr/~stolo/conf/SCVCRDyn24.html), RIMS. 25th--29th November 2024.
 32. "Condensed sets and topological spaces (Commentary on Scholz's Lecture Notes, Chapter 2, Appendix)" [Condensed mathematics Workshop](https://sites.google.com/view/condmathomu/home) Osaka Metropolitan University, February, 2025 [PDF](https://masataka123.github.io/blog3/pdf/2025_02_18_Condensed_Mathmatics_talk.pdf)
+33. "The inequality of Chern classes and structure theorem", [Annual Meeting of Mathematics Society in Japan 2025](https://www.mathsoc.jp/activity/meeting/waseda25mar/index.html) Special talk in the sectional meeting on function theory, Waseda University, March, 2025. [Abstract](https://masataka123.github.io/blog3/pdf/2025_01_日本数学会_homepage.pdf) (Japanese)
+
 
 ### **Apr. 2018--Mar. 2022**
 1. 'On the global generation of direct images of pluri-adjoint line bundles' HAYAMA Symposium on Complex Analysis in Several Variables XX (night session), Shonan Village Center, Kanagawa, July. 2018. [slide](https://masataka123.github.io/blog3/pdf/2018_07_16.pdf)
