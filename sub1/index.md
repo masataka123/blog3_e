@@ -32,8 +32,6 @@
 ## **Teaching**
 
 ### **2025**
-
-## **2025年度**
 - Summer 2025, Linear Algebra 1 (Osaka University) [Link](https://masataka123.github.io/2025_summer_linear_algebra/)
 - Summer 2025, Problem Session for Introduction to Set theory (Osaka University) [Link](https://masataka123.github.io/2025_summer_set_theory/)
 - Winter 2025, Basic Linear Algebra (Osaka University) 
