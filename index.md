@@ -20,7 +20,7 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 - Name: Masataka Iwai
 - Major: complex geometry, algebraic geometry, several complex variables
 - Email: masataka[at]math.sci.osaka-u.ac.jp, masataka.math[at]gmail.com 
-- Affiliation: Department of Mathematics, Graduate School of Science, Osaka University 
+- Affiliation: Department of Mathematics, Graduate School of Science, [The University of Osaka](https://www.osaka-u.ac.jp/en/news/topics/2024/11/27001)
 - Address : 1-1 Machikaneyama-cho, Toyonaka, Osaka 560-0043, Japan
 
 I am an assistant professor, so under the current system, I am not allowed to supervise master's or doctoral students.
@@ -31,7 +31,7 @@ I will ignore such emails.
 ![](https://masataka123.github.io/blog3_e/picture/4.jpg )
 
 ## **Information**
-- I'm Masataka Iwai, an assistant professor in Department of Mathematics, Graduate School of Science, Osaka University. [Link](http://www.math.sci.osaka-u.ac.jp/eng/staff.html)
+- I'm Masataka Iwai, an assistant professor in Department of Mathematics, Graduate School of Science, The University of Osaka. [Link](http://www.math.sci.osaka-u.ac.jp/eng/staff.html)
 - I'm majoring in complex geometry, algebraic geometry, and several complex variables.
 - I'm interested in these topics:
 2. Structure of projective manifolds whose tangent bundles are "positive" (such as ample, nef, big, pseudo-effective). 
