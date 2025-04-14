@@ -38,6 +38,12 @@
 - [Chessboard 1](https://masataka123.github.io/blog3_e/sub4/7_chess1/)
 - [Chessboard 2](https://masataka123.github.io/blog3_e/sub4/8_chess2/)
 - [100 prisoners problem](https://masataka123.github.io/blog3_e/sub4/9_100prisoner/)
+- [Countable prisoners problem](https://masataka123.github.io/blog3_e/sub4/10_prisoner2/)
+- [Dobble](https://masataka123.github.io/blog3_e/sub4/11_dobble/)
+- [Tile 1](https://masataka123.github.io/blog3_e/sub4/12_tile1/)
+- [Tile 2](https://masataka123.github.io/blog3_e/sub4/13_tile2/)
+- [line and point](https://masataka123.github.io/blog3_e/sub4/14_line_and_point/)
+- [Zagier's one sentence proof](https://www.jstor.org/stable/2323918?seq=1)
 
 # **Others**
 - [Game of Life](https://masataka123.github.io/blog3_e/sub4/conway/)
