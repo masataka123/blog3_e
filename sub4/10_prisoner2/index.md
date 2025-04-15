@@ -7,7 +7,7 @@ The guard brings all the prisoners to a big field.
 Each prisoner will get a hat — either red or white.
 Each prisoner can see all the other prisoners’ hat colors,
 but cannot see their own hat color.
-Then, at the same time, all prisoners must guess their own hat color — red or white.
+Then, at the same time, all prisoners must guess their own hat color.
 They can only answer once, and they must all answer together.
 
 [The winning rule:]
