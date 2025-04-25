@@ -14,6 +14,8 @@
 - [Takayuki Koike](https://tkoike.com)
 - [Eiji Inoue](http://ithems-members.riken.jp/eijinoe/home.html)
 - [Takahiro Inayama](https://sites.google.com/view/takahiro-inayama-webpage/home)
+- [Yuta Watanabe](https://sites.google.com/view/yuta-watanabe-math-webpage)
+- [Yuta Kusakabe](https://kusakabe.github.io)
 - [Yuya Takeuchi](https://sites.google.com/view/yuya-takeuchi-japanese/)
 - [Kouichi Taira](https://sites.google.com/view/the-home-page-of-kouichi-taira/home)
 - [Yasuhiko Asao](https://sites.google.com/view/yasuhikoasao)
