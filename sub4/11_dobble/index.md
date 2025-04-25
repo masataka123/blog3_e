@@ -27,3 +27,4 @@ and actually, the game would still work fine even if there were 57 cards instead
 By the way, my lab is full of Pokémon stuff — not only Dobble, but also many Pokémon plushies.
 You're welcome to visit and take a look anytime.
 
+![](https://masataka123.github.io/blog3/picture/dobble.jpg )
