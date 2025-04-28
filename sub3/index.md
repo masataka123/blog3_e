@@ -1,6 +1,5 @@
 
 # **Schedule**
-- I will attend [Progress in Complex Geometry](https://ccg.ibs.re.kr/event/2025-0421-0424/) at IBS-CCG on April 21-25, 2025 (if I afford my research funds).
 - I will give a talk at the [Workshop on Fano Varieties](https://bicmr.pku.edu.cn/content/show/17-3569.html) to be held at Peking University on June 23-27, 2025. 
 
 # **Talks**
@@ -81,6 +80,8 @@
 9. "Workshop on Algebraic Geometry over complex number field or in positive characteristic -Around positivity of tangent sheaves and anti-canonical divisors- " Osaka Metropolitan University, August, 2024. (with S. Ejiri, T. Koike, K. Sato, S. Matsumura, Y. Matsuzawa) [Link](https://masataka123.github.io/tangent_anticanonical/)
 10. "Winter seminar of Several Complex Variables in 2024" Osaka University, December, 2024.  (with Y. Matsumoto) [Link](https://masataka123.github.io/2024scvwinter/)
 11. "Condensed mathematics Workshop" Osaka Metropolitan University, February, 2024.(with M. Enokizono, K. Hashizume, Y. Matsuzawa) [Link](https://sites.google.com/view/condmathomu/home) 
+12. "Mini-workshop on Algebraic Geometry and Several Complex Variables in Fukuoka"
+Fukuoka Institute of Technology. May, 2025. (with E. Inoue, Y. Kusakabe, T. Nose, S. Matsumura) [Link](https://masataka123.github.io/AG_SCV_2025/)
 
 ## **Seminar**
 5. "Geometry Seminar in Osaka University" Osaka University, April, 2023. 20 talks
