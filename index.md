@@ -41,7 +41,7 @@ I proved the abundance conjecture for minimal projective manifolds with nef cota
 3. Second Chern classes and structure theorem.
 I established several inequalities involving the second Chern class, such as Miyaoka–Yau-type inequalities, and established the structure theorem when the equality holds.
 
-
+I also wrote more details on [my staff page](http://www.math.sci.osaka-u.ac.jp/eng/staff_iwai.html) in the University of Osaka.
 
 ## **Others**
 - [Google Scholar](https://scholar.google.com/citations?hl=ja&user=ZTKnR6QAAAAJ)
