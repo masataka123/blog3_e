@@ -65,7 +65,6 @@
 
 
 # **Puzzles**
-
 - [Mad Professor?](https://masataka123.github.io/blog3_e/sub4/1_Alps/)
 - [Points on a unit circle](https://masataka123.github.io/blog3_e/sub4/3_circle/)
 - [Nim](https://masataka123.github.io/blog3_e/sub4/4_game/)
@@ -81,6 +80,9 @@
 - [line and point](https://masataka123.github.io/blog3_e/sub4/14_line_and_point/)
 - [Zagier's one sentence proof](https://www.jstor.org/stable/2323918?seq=1)
 - [111111.......](https://masataka123.github.io/blog3_e/sub4/15_111/)
+
+# **Photo**
+- [My Laboratory](https://masataka123.github.io/blog3_e/sub4/picture_room/)
 
 # **Others**
 - [Game of Life](https://masataka123.github.io/blog3_e/sub4/conway/)
