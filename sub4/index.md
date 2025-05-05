@@ -12,9 +12,8 @@
 
 ## Other (friends,  colleague, and so on.)
 
-### Former members of Prof. Shigeharu Takayama
+## Former members of Prof. Shigeharu Takayama
 
-Takayama60で初めて全員集合するので何年後かに期待である. 
 - [Shin-ichi Matsumura](https://sites.google.com/view/math-matsumura/home)
 - [Tomoyuki Hisamoto](https://sites.google.com/view/t-hisamoto/)
 - [Takayuki Koike](https://tkoike.com)
@@ -25,7 +24,7 @@ Takayama60で初めて全員集合するので何年後かに期待である.
 - [Yuta Watanabe](https://sites.google.com/view/yuta-watanabe-math-webpage)
 - Yongpan Zou
 
-### Several Complex Variables
+## Several Complex Variables
 
 - [Yuta Kusakabe](https://kusakabe.github.io)
 - [Yuya Takeuchi](https://sites.google.com/view/yuya-takeuchi-english/home)
@@ -33,13 +32,13 @@ Takayama60で初めて全員集合するので何年後かに期待である.
 - [Yoshihiko Matsumoto](http://www4.math.sci.osaka-u.ac.jp/~matsumoto/)
 - [Shun Sugiyama](https://researchmap.jp/shun-sugiyama)
 
-### Condensed mathematics seminar (2024)
+## Condensed mathematics seminar (2024)
 
 - [Yohsuke Matsuzawa](https://sites.google.com/brown.edu/yohsukematsuzawa/home)
 - [Makoto Enokizono](https://sites.google.com/site/enokizono000makoto/home)
 - [Kenta Hashizume](https://sites.google.com/view/hashizumekenta/)
 
-### The University of Tokyo (2015-2020)
+## The University of Tokyo (2015-2020)
 - [Kouichi Taira](https://sites.google.com/view/the-home-page-of-kouichi-taira/home)
 - [Yasuhiko Asao](https://sites.google.com/view/yasuhikoasao)
 - [Masaki Taniguchi](https://sites.google.com/view/masaki-taniguchis-homepage)
@@ -53,7 +52,7 @@ Takayama60で初めて全員集合するので何年後かに期待である.
 - [Michiya Mori](https://www.ms.u-tokyo.ac.jp/~mmori/index.html)
 - [Tomohiro Hayase](https://thayafluss.notion.site/main)
 
-### The University of Osaka (Since 2022)
+## The University of Osaka (Since 2022)
 - [Hisashi Kasuya](https://sites.google.com/site/hisashikasuyamath/home)
 - [Yoshihiko Matsumoto](http://www4.math.sci.osaka-u.ac.jp/~matsumoto/)
 - [Makoto Miura](https://sites.google.com/view/makoto-miura/home)  Miura's Game:[Solo-Cat Game](https://miurror.net/solocat/)
