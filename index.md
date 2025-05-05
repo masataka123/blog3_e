@@ -33,13 +33,15 @@ I will ignore such emails.
 - I'm Masataka Iwai, an assistant professor in Department of Mathematics, Graduate School of Science, The University of Osaka. [Link](http://www.math.sci.osaka-u.ac.jp/eng/staff.html)
 - I'm majoring in complex geometry, algebraic geometry, and several complex variables.
 - I'm interested in these topics:
-2. Structure of projective manifolds whose tangent bundles are "positive" (such as ample, nef, big, pseudo-effective). 
+1. Structure of projective manifolds whose tangent bundles are "positive" (such as ample, nef, big, pseudo-effective). 
 I established the structure theorem for projective manifolds with "positive" tangent bundles or "positive" foliations.
 Recently, I studied the structure of log smooth pairs whose logarithmic tangent bundles are "positive".
-3. Structure of projective manifolds whose cotangent bundles are "positive". 
+2. Structure of projective manifolds whose cotangent bundles are "positive". 
 I proved the abundance conjecture for minimal projective manifolds with nef cotangent bundles whose numerical Kodaira dimension is one and I established the structure theorem for this projective manifolds.
+3. Second Chern classes and structure theorem.
+I established several inequalities involving the second Chern class, such as Miyaoka–Yau-type inequalities, and established the structure theorem when the equality holds.
 
-Also, I studied relative anti-canonical divisors and relative versions of Fujita's conjecture.
+
 
 ## **Others**
 - [Google Scholar](https://scholar.google.com/citations?hl=ja&user=ZTKnR6QAAAAJ)
