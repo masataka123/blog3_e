@@ -1,11 +1,21 @@
 # My Laboratory
 
+## Room 
+![](https://masataka123.github.io/blog3/sub6/picture_room/IMG_6188.jpeg)
+![](https://masataka123.github.io/blog3/sub6/picture_room/IMG_6190.jpeg)
+![](https://masataka123.github.io/blog3/sub6/picture_room/IMG_6201.jpeg)
+![](https://masataka123.github.io/blog3/sub6/picture_room/IMG_6194.jpeg)
+![](https://masataka123.github.io/blog3/sub6/picture_room/IMG_6196.jpeg)
+![](https://masataka123.github.io/blog3/sub6/picture_room/IMG_6195.jpeg)
 
-![](https://masataka123.github.io/blog3/sub6/picture_room/IMG_6186.jpeg)
-![](https://masataka123.github.io/blog3/sub6/picture_room/IMG_5652.jpeg)
-![](https://masataka123.github.io/blog3/sub6/picture_room/IMG_6164.jpeg)
-![](https://masataka123.github.io/blog3/sub6/picture_room/IMG_5809.jpeg)
-![](https://masataka123.github.io/blog3/sub6/picture_room/IMG_6166.jpeg)
-![](https://masataka123.github.io/blog3/sub6/picture_room/IMG_5811.jpeg)
-![](https://masataka123.github.io/blog3/sub6/picture_room/IMG_5818.jpeg)
-![](https://masataka123.github.io/blog3/sub6/picture_room/IMG_5812.jpeg)
+## Book shelf
+![](https://masataka123.github.io/blog3/sub6/picture_room/IMG_6203.jpeg)
+![](https://masataka123.github.io/blog3/sub6/picture_room/IMG_6200.jpeg)
+
+## From outside
+![](https://masataka123.github.io/blog3/sub6/picture_room/IMG_6197.jpeg)
+![](https://masataka123.github.io/blog3/sub6/picture_room/IMG_6198.jpeg)
+
+## Others
+![](https://masataka123.github.io/blog3/sub6/picture_room/IMG_6192.jpeg)
+![](https://masataka123.github.io/blog3/sub6/picture_room/IMG_6202.jpeg)
