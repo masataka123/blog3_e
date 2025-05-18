@@ -8,7 +8,6 @@ This is Masataka Iwai's Homepage.
 A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3/)
 
 ## **News**
-- On 12th April, 2024, I submitted a new preprint. [arXiv](https://arxiv.org/abs/2404.07568) This is a joint work with Shin-ichi Matsumura and Niklas Müller.
 - I will give a talk at the [Workshop on Fano Varieties](https://bicmr.pku.edu.cn/content/show/17-3569.html) to be held at Peking University on June 23-27, 2025. 
 
 <!--

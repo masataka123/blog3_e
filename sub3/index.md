@@ -1,6 +1,7 @@
 
 # **Schedule**
-- I will give a talk at the [Workshop on Fano Varieties](https://bicmr.pku.edu.cn/content/show/17-3569.html) to be held at Peking University on June 23-27, 2025. 
+- I will give a talk at [Workshop on Fano Varieties](https://bicmr.pku.edu.cn/content/show/17-3569.html) to be held at Peking University on June 23-27, 2025. 
+- I will attend at [Conference on Several Complex Variables -L2 estimates and extensions-](https://takahiro-ina.github.io/sendai2025/) to be held at Tohoku University on September 22-26, 2025.
 
 # **Talks**
 
