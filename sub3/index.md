@@ -85,7 +85,8 @@
 Fukuoka Institute of Technology. May, 2025. (with E. Inoue, Y. Kusakabe, T. Nose, S. Matsumura) [Link](https://masataka123.github.io/AG_SCV_2025/)
 
 ## **Seminar**
-5. "Geometry Seminar in Osaka University" Osaka University, April, 2023. 20 talks
-5. "Geometry Seminar in Osaka University" Osaka University, April, 2024.
+5. "Geometry Seminar in Osaka University" Osaka University, 2023--2024.  [2023](http://www4.math.sci.osaka-u.ac.jp/sembbs2/rirekiThisY.cgi) [2024](http://www4.math.sci.osaka-u.ac.jp/sembbs2/rireki.cgi?Y=2024)
+5. "Geometry Seminar in Osaka University" Osaka University, 2025-- (with S. Hamanaka, Y. Matsumoto)
+
 
 [](# **Others** 1. 2019年度大阪市立大学共同利用・共同研究(A) 「標準束の幾何学」 共同研究の提案者・研究代表 [link](http://www.sci.osaka-cu.ac.jp/OCAMI/joint/joint-usage.html) )
