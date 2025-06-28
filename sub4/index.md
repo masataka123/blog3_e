@@ -82,7 +82,7 @@
 - [111111.......](https://masataka123.github.io/blog3_e/sub4/15_111/)
 
 # **Photo**
-- [My Laboratory](https://masataka123.github.io/blog3_e/sub4/picture_room/)
+- [My Laboratory (before 2025/06)](https://masataka123.github.io/blog3_e/sub4/picture_room/)
 
 # **Others**
 - [Game of Life](https://masataka123.github.io/blog3_e/sub4/conway/)

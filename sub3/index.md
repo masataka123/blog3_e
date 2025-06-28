@@ -1,6 +1,5 @@
 
 # **Schedule**
-- I will give a talk at [Workshop on Fano Varieties](https://bicmr.pku.edu.cn/content/show/17-3569.html) to be held at Peking University on June 23-27, 2025. 
 - I will attend at [Conference on Several Complex Variables -L2 estimates and extensions-](https://takahiro-ina.github.io/sendai2025/) to be held at Tohoku University on September 22-26, 2025.
 
 # **Talks**
@@ -19,7 +18,7 @@
 31. ''Complex projective manifolds satisfying Miyaoka's equality' [SCV, CR geometry and Dynamics](https://math.univ-cotedazur.fr/~stolo/conf/SCVCRDyn24.html), RIMS. 25th--29th November 2024.
 32. "Condensed sets and topological spaces (Commentary on Scholz's Lecture Notes, Chapter 2, Appendix)" [Condensed mathematics Workshop](https://sites.google.com/view/condmathomu/home) Osaka Metropolitan University, February, 2025 [PDF](https://masataka123.github.io/blog3/pdf/2025_02_18_Condensed_Mathmatics_talk.pdf)
 33. "The inequality of Chern classes and structure theorem", [Annual Meeting of Mathematics Society in Japan 2025](https://www.mathsoc.jp/activity/meeting/waseda25mar/index.html) Special talk in the sectional meeting on function theory, Waseda University, March, 2025. [Abstract](https://masataka123.github.io/blog3/pdf/2025_01_日本数学会_homepage.pdf) (Japanese)
-
+34. "Inequalities for the second Chern class and structure theorems" [Workshop on Fano Varieties](https://bicmr.pku.edu.cn/content/show/17-3569.html), Peking University, June, 2025. 
 
 ### **Apr. 2018--Mar. 2022**
 1. 'On the global generation of direct images of pluri-adjoint line bundles' HAYAMA Symposium on Complex Analysis in Several Variables XX (night session), Shonan Village Center, Kanagawa, July. 2018. [slide](https://masataka123.github.io/blog3/pdf/2018_07_16.pdf)
