@@ -7,10 +7,11 @@ layout: default
 This is Masataka Iwai's Homepage.
 A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3/)
 
+<!--
 ## **News**
 - I will give a talk at the [Workshop on Fano Varieties](https://bicmr.pku.edu.cn/content/show/17-3569.html) to be held at Peking University on June 23-27, 2025. 
 
-<!--
+
 - On 13th--15th December 2024, we will hold a workshop: [Winter seminar of Several Complex Variables in 2024](https://masataka123.github.io/2024scvwinter/)
 -->
 
