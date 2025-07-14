@@ -7,11 +7,14 @@ layout: default
 This is Masataka Iwai's Homepage.
 A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3/)
 
-<!--
+
 ## **News**
+- I uploaded a new paper titled [The Miyaoka-Yau inequality for singular varieties with big canonical or anticanonical divisors](https://arxiv.org/abs/2507.08522) on July 14, 2025. This is a joint work with Satoshi Jinnouchi (Osaka University) and Shiyu Zhang (University of Science and Technology of China, USTC).
+- Our joint work with Shin-ichi Matsumura (Tohoku University) and Guolei Zhong (IBS-CCG), titled [Positivity of tangent sheaves of projective varieties -- the structure of MRC fibrations](https://arxiv.org/abs/2309.09489), has been accepted for publication in Algebraic Geometry.
+
+
+<!--
 - I will give a talk at the [Workshop on Fano Varieties](https://bicmr.pku.edu.cn/content/show/17-3569.html) to be held at Peking University on June 23-27, 2025. 
-
-
 - On 13th--15th December 2024, we will hold a workshop: [Winter seminar of Several Complex Variables in 2024](https://masataka123.github.io/2024scvwinter/)
 -->
 

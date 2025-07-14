@@ -9,6 +9,8 @@
 - [Osamu Fujino](https://www.math.kyoto-u.ac.jp/~fujino/)
 - [Guolei Zhong](https://sites.google.com/view/guoleizhongshomepage/research?authuser=0)
 - [Niklas Muller](https://www.esaga.uni-due.de/niklas.mueller/)
+- [Shiyu Zhang](https://berkovichyu.github.io)
+- Satoshi Jinnouchi
 
 ## Other (friends,  colleague, and so on.)
 
