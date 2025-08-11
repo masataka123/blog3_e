@@ -8,7 +8,7 @@
 - [Haidong Liu](https://sites.google.com/view/liuhaidong/home?authuser=0)
 - [Osamu Fujino](https://www.math.kyoto-u.ac.jp/~fujino/)
 - [Guolei Zhong](https://sites.google.com/view/guoleizhongshomepage/research?authuser=0)
-- [Niklas Muller](https://www.esaga.uni-due.de/niklas.mueller/)
+- [Niklas Muller](https://sites.google.com/view/niklas-mueller-cplx-geometry/home)
 - [Shiyu Zhang](https://berkovichyu.github.io)
 - Satoshi Jinnouchi
 
