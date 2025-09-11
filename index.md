@@ -30,7 +30,7 @@ Therefore, sending me an email saying, "I want to study under you" serves no pur
 I will ignore such emails.
 
 <!--- - I study the structures of complex projective manifolds whose tangent bundles are "positive" (such as nef, big, pseudo-effective, and so on) and the morphisms between smooth projective varieties by using singular Hermitian metrics. -->
-![](https://masataka123.github.io/blog3_e/picture/4.jpg )
+![](https://masataka123.github.io/blog3_e/picture/6.jpg )
 
 ## **Information**
 - I'm Masataka Iwai, an assistant professor in Department of Mathematics, Graduate School of Science, The University of Osaka. [Link](http://www.math.sci.osaka-u.ac.jp/eng/staff.html)
