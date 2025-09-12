@@ -34,8 +34,9 @@
 ### **2025**
 - Summer 2025, Linear Algebra 1 (Osaka University) [Link](https://masataka123.github.io/2025_summer_linear_algebra/)
 - Summer 2025, Problem Session for Introduction to Set theory (Osaka University) [Link](https://masataka123.github.io/2025_summer_set_theory/)
-- Winter 2025, Basic Linear Algebra (Osaka University) 
-- Winter 2025, Problem Session for Introduction to Geometry (Differentiable manifolds) (Osaka University) 
+- Winter 2025, Basic Linear Algebra (Osaka University) [Link](https://masataka123.github.io/2025_winter_linear_algebra/)
+- Winter 2025, Problem Session for Introduction to Geometry (Differentiable manifolds) (Osaka University)  [Link](https://masataka123.github.io/2025_winter_geometry1/)
+
 
 ### **2024**
 - Summer 2024, Linear Algebra 1 (Osaka University) [Link](https://masataka123.github.io/2024_summer_linear_algebra/)
