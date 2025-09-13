@@ -1,6 +1,6 @@
 # Lights Out game
 
-![](lightsout_en.jpg)
+![](https://masataka123.github.io/blog3/picture/lightsout_en.jpg)
 
 ## Comment
 
