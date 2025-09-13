@@ -82,6 +82,7 @@
 - [line and point](https://masataka123.github.io/blog3_e/sub4/14_line_and_point/)
 - [111111.......](https://masataka123.github.io/blog3_e/sub4/15_111/)
 - [Zagier's one sentence proof](https://masataka123.github.io/blog3_e/sub4/16_Zagier/)
+- [Lights Out game](https://masataka123.github.io/blog3_e/sub4/17_lightsout/)
 
 # **Photo**
 - [My Laboratory (at 2025/08)](https://masataka123.github.io/blog3_e/sub4/picture_room_2/)
