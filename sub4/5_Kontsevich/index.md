@@ -1,10 +1,10 @@
 # Kontsevich's puzzle
 
-Imagine an infinite grid of tiles, as in Figure 1 (bottom left). Only the tile at the lower left corner is black, and all the others are white.
-Show that, no matter how many times you do the following operation, there will always be a black tile inside the red area in Figure 2 (bottom right).
+As in Figure 1 (on the left below), consider a grid where only the bottom-left tile is black, and all other tiles are white, with these white tiles extending infinitely upward and to the right.
+Show that, no matter how many times you apply the following operation, there will always be a black tile in the red region shown in Figure 2 (on the right below).
 
 [Operation]
-Choose a black tile whose top tile and right tile are both white. Change this black tile into white, and change the top tile and the right tile into black.
+Choose a black tile whose tile above and tile to the right are both white (as in Figure 1). Change this chosen tile to white, and change both the tile above and the tile to the right to black.
 
 ![](https://masataka123.github.io/blog3/picture/kont.jpg)
 
