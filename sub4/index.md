@@ -80,8 +80,8 @@
 - [Tile 1](https://masataka123.github.io/blog3_e/sub4/12_tile1/)
 - [Tile 2](https://masataka123.github.io/blog3_e/sub4/13_tile2/)
 - [line and point](https://masataka123.github.io/blog3_e/sub4/14_line_and_point/)
-- [Zagier's one sentence proof](https://www.jstor.org/stable/2323918?seq=1)
 - [111111.......](https://masataka123.github.io/blog3_e/sub4/15_111/)
+- [Zagier's one sentence proof](https://masataka123.github.io/blog3_e/sub4/16_Zagier/)
 
 # **Photo**
 - [My Laboratory (at 2025/08)](https://masataka123.github.io/blog3_e/sub4/picture_room_2/)
