@@ -6,7 +6,7 @@ Show that, no matter how many times you do the following operation, there will a
 [Operation]
 Choose a black tile whose top tile and right tile are both white. Change this black tile into white, and change the top tile and the right tile into black.
 
-![](https://masataka123.github.io/blog3/picture/knot.jpg)
+![](https://masataka123.github.io/blog3/picture/kont.jpg)
 
 ## Comments
 This puzzle is based on the Maxim Kontsevich's puzzle in 1981: [Escape of the Clones](https://www.cut-the-knot.org/Curriculum/Games/CloneEscape.shtml).
