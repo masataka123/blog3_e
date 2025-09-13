@@ -64,7 +64,7 @@
 - [Toru Sera](https://sites.google.com/view/torusera)
 - [Shohei Nakamura](https://researchmap.jp/pokopoko)
 - [Kento Fujita](http://www.math.sci.osaka-u.ac.jp/eng/staff_fujita.html)
-
+- [Takahiro Oba](https://researchmap.jp/takahiro_oba?lang=en)
 
 # **Puzzles**
 - [Mad Professor?](https://masataka123.github.io/blog3_e/sub4/1_Alps/)
@@ -84,7 +84,7 @@
 - [111111.......](https://masataka123.github.io/blog3_e/sub4/15_111/)
 
 # **Photo**
-- [My Laboratory (at 2025/06)](https://masataka123.github.io/blog3_e/sub4/picture_room_2/)
+- [My Laboratory (at 2025/08)](https://masataka123.github.io/blog3_e/sub4/picture_room_2/)
 - [My Laboratory (before 2025/06)](https://masataka123.github.io/blog3_e/sub4/picture_room/)
 
 # **Others**
