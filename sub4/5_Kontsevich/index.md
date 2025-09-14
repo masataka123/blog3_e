@@ -11,4 +11,4 @@ Choose a black tile whose tile above and tile to the right are both white (as in
 ## Comments
 This puzzle is based on the Maxim Kontsevich's puzzle in 1981: [Escape of the Clones](https://www.cut-the-knot.org/Curriculum/Games/CloneEscape.shtml).
 I used this puzzle for our school festival. Even now, this problem is displayed in front of my laboratory.
-![](https://masataka123.github.io/blog3/sub6/picture_room_2/IMG_8577.jpeg)」
+![](https://masataka123.github.io/blog3/sub6/picture_room_2/IMG_8577.jpeg)

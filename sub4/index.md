@@ -84,6 +84,17 @@
 - [Zagier's one sentence proof](https://masataka123.github.io/blog3_e/sub4/16_Zagier/)
 - [Lights Out game](https://masataka123.github.io/blog3_e/sub4/17_lightsout/)
 - [Three utilities problem](https://masataka123.github.io/blog3_e/sub4/18_3utilities/)
+- [1 + √2](https://masataka123.github.io/blog3_e/sub4/19_1+sqrt2/)
+- [Box in box](https://masataka123.github.io/blog3_e/sub4/20_yuubin/)
+
+## Reference of Puzzles
+- Peter Winkler [Mathematical Puzzles](https://www.amazon.co.jp/Mathematical-Puzzles-Peter-Winkler/dp/1568812019)
+- Anany Levitin, Maria Levitin [Algorithmic Puzzles](https://www.amazon.com/Algorithmic-Puzzles-Anany-Levitin/dp/0199740445)
+- Takehiko Yasuda [Introduction to University Mathematics through Games](https://www.amazon.co.jp/ゲームで大学数学入門-スプラウトからオイラー-ゲッターまで-安田-健彦/dp/4320113446) (in Japanese)
+- [Proofs from THE BOOK](https://en.wikipedia.org/wiki/Proofs_from_THE_BOOK) 
+- [Ebima Lab' YouTube video](https://www.youtube.com/@evimalab)
+- [3Blue1Brown](https://www.youtube.com/@3blue1brown)
+- [TED-Ed: Can You Solve This Riddle?](https://www.youtube.com/playlist?list=PLJicmE8fK0EiFRt1Hm5a_7SJFaikIFW30)
 
 # **Photo**
 - [My Laboratory (at 2025/08)](https://masataka123.github.io/blog3_e/sub4/picture_room_2/)
