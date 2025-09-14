@@ -83,7 +83,7 @@
 11. "Condensed mathematics Workshop" Osaka Metropolitan University, February, 2024.(with M. Enokizono, K. Hashizume, Y. Matsuzawa) [Link](https://sites.google.com/view/condmathomu/home) 
 12. "Mini-workshop on Algebraic Geometry and Several Complex Variables in Fukuoka"
 Fukuoka Institute of Technology. May, 2025. (with E. Inoue, Y. Kusakabe, T. Nose, S. Matsumura) [Link](https://masataka123.github.io/AG_SCV_2025/)
-13. "Study group on Oka manifolds" Kyushu University. Decmber, 2025. (with Y. Kusakabe) [Link](https://masataka123.github.io/Oka_manifold_2025/) 
+13. "Study group on Oka manifolds" Kyushu University. December, 2025. (with Y. Kusakabe, Y. Watanabe) [Link](https://masataka123.github.io/Oka_manifold_2025/) 
 14. "Workshop on Algebraic Geometry and Complex Geometry in Osaka" the University of Osaka. January, 2026. (with K. Fujita, K. Hashizume) [Link](https://masataka123.github.io/AGCG_Osaka_2026/) 
 
 ## **Seminar**
