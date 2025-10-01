@@ -24,16 +24,16 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 - Email: masataka[at]math.sci.osaka-u.ac.jp, masataka.math[at]gmail.com 
 - Affiliation: Department of Mathematics, Graduate School of Science, [The University of Osaka](https://www.osaka-u.ac.jp/en/news/topics/2024/11/27001)
 - Address : 1-1 Machikaneyama-cho, Toyonaka, Osaka 560-0043, Japan
+- Position: associate professor [Link](http://www.math.sci.osaka-u.ac.jp/eng/staff.html)
 
-I am an assistant professor, so under the current system, I am not allowed to supervise master's or doctoral students.
-Therefore, sending me an email saying, "I want to study under you" serves no purpose.
-I will ignore such emails.
+**I do not accept international students unless they are introduced by some professors I know.**
+So I do not answer emails asking to be my student. (I receive a lot of such emails.)
+We have [an entrance exam](http://www.math.sci.osaka-u.ac.jp/inshi/) every year for the Master’s program, so please take the exam.
 
 <!--- - I study the structures of complex projective manifolds whose tangent bundles are "positive" (such as nef, big, pseudo-effective, and so on) and the morphisms between smooth projective varieties by using singular Hermitian metrics. -->
 ![](https://masataka123.github.io/blog3_e/picture/6.jpg )
 
 ## **Information**
-- I'm Masataka Iwai, an assistant professor in Department of Mathematics, Graduate School of Science, The University of Osaka. [Link](http://www.math.sci.osaka-u.ac.jp/eng/staff.html)
 - I'm majoring in complex geometry, algebraic geometry, and several complex variables.
 - I'm interested in these topics:
 1. Structure of projective manifolds whose tangent bundles are "positive" (such as ample, nef, big, pseudo-effective). 
