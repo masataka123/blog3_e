@@ -3,7 +3,7 @@
 
 ## **Employment**
 - Oct. 2025-- Associate professor in Department of Mathematics, Graduate School of Science, the University of Osaka.
-- Apr. 2022-- Sep. 2025. Assistant professor in Department of Mathematics, Graduate School of Science, Osaka University.
+- Apr. 2022--Sep. 2025. Assistant professor in Department of Mathematics, Graduate School of Science, Osaka University.
 - Jun. 2021--Mar. 2022. Assistant professor in RACMaS (Research Alliance Center for Mathematical Sciences, Tohoku University)
 - Oct. 2020--Mar. 2021. Researcher in RIMS (Research Institute for Mathmatical Science, Kyoto University) 
 - Apr. 2020--May. 2021. Resercher in OCAMI (Osaka City University Advanced Mathematical Institute)
