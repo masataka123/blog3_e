@@ -52,5 +52,12 @@ I also wrote more details on [my staff page](http://www.math.sci.osaka-u.ac.jp/e
 - [Research Map](https://researchmap.jp/Masataka_iwai)
 - Professional Societies: The Mathematical Society of Japan (Member #11981).
 
+## **Access**
+Here is a summary of how to access the Faculty of Science / Nambu Hall at Osaka University, Toyonaka Campus, as well as a lunch map.
+
+* [Access to Nambu Hall (from Shibahara-Handai-mae Station)](https://masataka123.github.io/blog3/pdf/20251005_access/access_nambu_shibahara_en.pdf)
+* [Access to Nambu Hall (from Ishibashi-Handai-mae Station)](https://masataka123.github.io/blog3/pdf/20251005_access/access_nambu_ishibashi_en.pdf)
+* [Lunch Map (PDF)](https://masataka123.github.io/blog3/pdf/20251005_access/lunch_map.pdf)
+* [Lunch Map (Google My Map)](https://www.google.com/maps/d/edit?mid=1B7egM_vT4mLeZgtXCt88ys5hColf05I&usp=sharing)
 
 
