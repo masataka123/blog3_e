@@ -55,9 +55,11 @@ I also wrote more details on [my staff page](http://www.math.sci.osaka-u.ac.jp/e
 ## **Access**
 Here is a summary of how to access the Faculty of Science / Nambu Hall at Osaka University, Toyonaka Campus, as well as a lunch map.
 
-* [Access to Nambu Hall (from Shibahara-Handai-mae Station)](https://masataka123.github.io/blog3/pdf/20251005_access/access_nambu_shibahara_en.pdf)
-* [Access to Nambu Hall (from Ishibashi-Handai-mae Station)](https://masataka123.github.io/blog3/pdf/20251005_access/access_nambu_ishibashi_en.pdf)
-* [Lunch Map (PDF)](https://masataka123.github.io/blog3/pdf/20251005_access/lunch_map.pdf)
-* [Lunch Map (Google My Map)](https://www.google.com/maps/d/edit?mid=1B7egM_vT4mLeZgtXCt88ys5hColf05I&usp=sharing)
+- [Access to the Graduate School of Science (from Shibahara-Handai-mae Station)](https://masataka123.github.io/blog3/pdf/20251005_access/access_science_shibahara_en.pdf)
+- [Access to the Graduate School of Science (from Ishibashi-Handai-mae Station)](https://masataka123.github.io/blog3/pdf/20251005_access/access_science_ishibashi_en.pdf)
+- [Access to Nambu Hall (from Shibahara-Handai-mae Station)](https://masataka123.github.io/blog3/pdf/20251005_access/access_nambu_shibahara_en.pdf)
+- [Access to Nambu Hall (from Ishibashi-Handai-mae Station)](https://masataka123.github.io/blog3/pdf/20251005_access/access_nambu_ishibashi_en.pdf)
+- [Lunch Map (PDF)](https://masataka123.github.io/blog3/pdf/20251005_access/lunch_map.pdf)
+- [Lunch Map (Google My Map)](https://www.google.com/maps/d/edit?mid=1B7egM_vT4mLeZgtXCt88ys5hColf05I&usp=sharing)
 
 
