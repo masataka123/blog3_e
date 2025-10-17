@@ -11,7 +11,7 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 ## **News**
 - On 26th--30th January 2026, we will hold  the conference [Workshop on Algebraic Geometry and Complex Geometry in Osaka](https://masataka123.github.io/AGCG_Osaka_2026/) at Nambu Yoichiro Hall in the University of Osaka. 
 - I uploaded a new paper titled [The Miyaoka-Yau inequality for singular varieties with big canonical or anticanonical divisors](https://arxiv.org/abs/2507.08522) on July 14, 2025. This is a joint work with Satoshi Jinnouchi (Osaka University) and Shiyu Zhang (University of Science and Technology of China, USTC).
-- Our joint work with Shin-ichi Matsumura (Tohoku University) and Guolei Zhong (IBS-CCG), titled [Positivity of tangent sheaves of projective varieties -- the structure of MRC fibrations](https://arxiv.org/abs/2309.09489), has been accepted for publication in Algebraic Geometry.
+- Our joint work with Shin-ichi Matsumura (Tohoku University) and Niklas Muller (University of Freiburg), titled [Minimal projective varieties satisfying Miyaoka's equality](https://arxiv.org/abs/2404.07568) has been accepted for publication in Proceedings of the London Mathematical Society.
 
 <!--
 - I will give a talk at the [Workshop on Fano Varieties](https://bicmr.pku.edu.cn/content/show/17-3569.html) to be held at Peking University on June 23-27, 2025. 
