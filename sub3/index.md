@@ -1,6 +1,5 @@
 
 # **Schedule**
-- I will attend at [Conference on Several Complex Variables -L2 estimates and extensions-](https://takahiro-ina.github.io/sendai2025/) to be held at Tohoku University on September 22-26, 2025.
 - I will hold the conference [Workshop on Algebraic Geometry and Complex Geometry in Osaka](https://masataka123.github.io/AGCG_Osaka_2026/) form 26th to 30th, January, 2026, at the University of Osaka.
 
 # **Talks**
