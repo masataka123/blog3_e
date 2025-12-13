@@ -19,6 +19,8 @@
 32. "Condensed sets and topological spaces (Commentary on Scholz's Lecture Notes, Chapter 2, Appendix)" [Condensed mathematics Workshop](https://sites.google.com/view/condmathomu/home) Osaka Metropolitan University, February, 2025 [PDF](https://masataka123.github.io/blog3/pdf/2025_02_18_Condensed_Mathmatics_talk.pdf)
 33. "The inequality of Chern classes and structure theorem", [Annual Meeting of Mathematics Society in Japan 2025](https://www.mathsoc.jp/activity/meeting/waseda25mar/index.html) Special talk in the sectional meeting on function theory, Waseda University, March, 2025. [Abstract](https://masataka123.github.io/blog3/pdf/2025_01_日本数学会_homepage.pdf) (Japanese)
 34. "Inequalities for the second Chern class and structure theorems" [Workshop on Fano Varieties](https://bicmr.pku.edu.cn/content/show/17-3569.html), Peking University, June, 2025. 
+35.  "Inequalities for the second Chern class and structure theorems" [The 3rd Niigata Algebra Symposium](http://mathweb.sc.niigata-u.ac.jp/~hoshi/NiigataAlgebraSymposium.html) Niigata University, November, 2025.
+36. "Inequalities for the second Chern class -Miyaoka-Yau inequality and Miyaoka's inequality-" [第2回新潟若手代数・幾何シンポジウム](https://sites.google.com/view/niigatawakate2025/ホーム) Niigata University, November, 2025.
 
 ### **Apr. 2018--Mar. 2022**
 1. 'On the global generation of direct images of pluri-adjoint line bundles' HAYAMA Symposium on Complex Analysis in Several Variables XX (night session), Shonan Village Center, Kanagawa, July. 2018. [slide](https://masataka123.github.io/blog3/pdf/2018_07_16.pdf)
@@ -56,6 +58,9 @@
 11. 'Structure theorem of complex projective manifolds whose curvature is semipositive', Osaka University+Online, January, 2023. [PDF](https://masataka123.github.io/blog3/pdf/2023_01_16.pdf)
 12. 'Miyaoka type inequality for terminal weak Fano varieties.' The University of Tokyo, June. 2023. 
 13. ‘Abundance theorem for minimal projective varieties satisfying Miyaoka's equality’, Sun Yat-Sen University, May. 2024.
+14. '数学の勉強法・研究の進め方・専門の決め方について(in Japanese)' [What is セミナー](https://sites.google.com/view/handai-what-is-seminar/), the University of Osaka. January,  2025. [PDF](https://masataka123.github.io/blog3/pdf/2025_0116_What_is_seminar.pdf)
+15. "Inequalities for the second Chern class -Miyaoka-Yau inequality and Miyaoka's inequality-" [AG seminar](http://www4.math.sci.osaka-u.ac.jp/sembbs2/announce.cgi) the University of Osaka. December,  2025
+
 
 ### **Apr. 2018--Mar. 2022**
 1.  'Vanishing theorems of vector bundles with singular Hermitian metrics'  Geometry Seminar, Nagoya University, Aichi, May. 2018. [slide](https://masataka123.github.io/blog3/pdf/2018_05_29.pdf)
