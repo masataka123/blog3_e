@@ -1,6 +1,6 @@
 
 # **Schedule**
-- I will hold the conference [Workshop on Algebraic Geometry and Complex Geometry in Osaka](https://masataka123.github.io/AGCG_Osaka_2026/) form 26th to 30th, January, 2026, at the University of Osaka.
+
 
 # **Talks**
 

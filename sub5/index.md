@@ -65,4 +65,5 @@
 - [Shohei Nakamura](https://researchmap.jp/pokopoko)
 - [Kento Fujita](http://www.math.sci.osaka-u.ac.jp/eng/staff_fujita.html)
 - [Takahiro Oba](https://researchmap.jp/takahiro_oba?lang=en)
+- [Shinpei Baba](http://www4.math.sci.osaka-u.ac.jp/~baba/)
 
