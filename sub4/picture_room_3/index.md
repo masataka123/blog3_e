@@ -27,7 +27,7 @@
 ![](https://masataka123.github.io/blog3/sub6/picture_room_3/IMG_0375_1.jpeg)
 ![](https://masataka123.github.io/blog3/sub6/picture_room_3/IMG_0338.jpeg)
 
-## Duffy and Friends (LinaBell and Gelatoni)
+## Duffy and Friends
 
 ![](https://masataka123.github.io/blog3/sub6/picture_room_3/IMG_0375.jpeg)
 
