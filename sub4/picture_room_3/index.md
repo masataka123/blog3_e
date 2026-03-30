@@ -1,9 +1,7 @@
 # **My Laboratory (since 2026/03)**
 
 ## Room
-![](https://masataka123.github.io/blog3/sub6/picture_room_3/IMG_0339.jpeg)
-![](https://masataka123.github.io/blog3/sub6/picture_room_3/IMG_0340.jpeg)
-
+![](https://masataka123.github.io/blog3/sub6/picture_room_3/IMG_0822.jpeg)
 
 
 ## Book shelf
@@ -33,6 +31,9 @@
 
 ## Touhou Project (Cirno)
 ![](https://masataka123.github.io/blog3/sub6/picture_room_3/IMG_0376.jpeg)
+
+## Machikane-wani
+![](https://masataka123.github.io/blog3/sub6/picture_room_3/IMG_0823.jpeg)
 
 ## Myaku-Myaku (Expo 2025)
 ![](https://masataka123.github.io/blog3/sub6/picture_room_2/IMG_8563.jpeg)
