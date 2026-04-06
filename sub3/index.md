@@ -90,7 +90,7 @@
 Fukuoka Institute of Technology. May, 2025. (with E. Inoue, Y. Kusakabe, T. Nose, S. Matsumura) [Link](https://masataka123.github.io/AG_SCV_2025/)
 13. "Study group on Oka manifolds" Kyushu University. December, 2025. (with Y. Kusakabe, Y. Watanabe) [Link](https://masataka123.github.io/Oka_manifold_2025/) 
 14. "Workshop on Algebraic Geometry and Complex Geometry in Osaka" the University of Osaka. January, 2026. (with K. Fujita, K. Hashizume) [Link](https://masataka123.github.io/AGCG_Osaka_2026/) 
-15. "Study group on CR manifolds" Osaka Metropolitan University. September, 2026.  (with Y. Kusakabe, S. Matsumoto, Y. Suzuki) [Link](https://masataka123.github.io/CR_manifold_2026/) 
+15. "Study group on CR manifolds" Osaka Metropolitan University. September, 2026.  (with Y. Kusakabe, S. Matsumoto, Y. Suzuki, R. Murakami) [Link](https://masataka123.github.io/CR_manifold_2026/) 
 
 ## **Seminar**
 5. "Geometry Seminar in Osaka University" Osaka University, 2023--2024.  [2023](http://www4.math.sci.osaka-u.ac.jp/sembbs2/rirekiThisY.cgi) [2024](http://www4.math.sci.osaka-u.ac.jp/sembbs2/rireki.cgi?Y=2024)
