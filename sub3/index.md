@@ -1,6 +1,6 @@
 
 # **Schedule**
-
+- I will give a talk at the [Mini-workshop on complex geometry related to MMP]() to be held at Tsukuba University on June 23-26, 2026. 
 
 # **Talks**
 

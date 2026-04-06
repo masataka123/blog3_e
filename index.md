@@ -10,6 +10,7 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 
 ## **News**
 
+- I will give a talk at the [Mini-workshop on complex geometry related to MMP]() to be held at Tsukuba University on June 23-26, 2026. 
 
 <!--
 - I will give a talk at the [Workshop on Fano Varieties](https://bicmr.pku.edu.cn/content/show/17-3569.html) to be held at Peking University on June 23-27, 2025. 
