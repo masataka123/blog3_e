@@ -1,6 +1,5 @@
 
 # **Schedule**
-- I will give a talk at the [Mini-workshop on complex geometry related to MMP](https://sites.google.com/view/cg-mmp-2026) to be held at Tsukuba University on June 23-26, 2026. 
 
 # **Talks**
 
@@ -22,6 +21,7 @@
 35.  "Inequalities for the second Chern class and structure theorems" [The 3rd Niigata Algebra Symposium](http://mathweb.sc.niigata-u.ac.jp/~hoshi/NiigataAlgebraSymposium.html) Niigata University, November, 2025.
 36. "Inequalities for the second Chern class -Miyaoka-Yau inequality and Miyaoka's inequality-" [第2回新潟若手代数・幾何シンポジウム](https://sites.google.com/view/niigatawakate2025/ホーム) Niigata University, November, 2025.
  37. "Campana's special variety and Campana-Winkelmann ``On h-principle and specialness for complex projective manifolds’" Kyushu University, December 2025 [Summary of Campana's special variety (In Japanese)](https://masataka123.github.io/blog3/pdf/20251218_campana/Campana_04_2025_1218.pdf) [Summary of  Campana-Winkelman 15 (In Japanese)](https://masataka123.github.io/blog3/pdf/20251218_campana/Campana_Winkelman_2025_1218.pdf) 
+ 38. "The Miyaoka–Yau inequality for projective manifolds with big canonical divisors" [Mini-workshop on complex geometry related to MMP](https://sites.google.com/view/cg-mmp-2026) Tsukuba University, June, 2026.
 
 ### **Apr. 2018--Mar. 2022**
 1. 'On the global generation of direct images of pluri-adjoint line bundles' HAYAMA Symposium on Complex Analysis in Several Variables XX (night session), Shonan Village Center, Kanagawa, July. 2018. [slide](https://masataka123.github.io/blog3/pdf/2018_07_16.pdf)
@@ -61,7 +61,7 @@
 13. ‘Abundance theorem for minimal projective varieties satisfying Miyaoka's equality’, Sun Yat-Sen University, May. 2024.
 14. '数学の勉強法・研究の進め方・専門の決め方について(in Japanese)' [What is セミナー](https://sites.google.com/view/handai-what-is-seminar/), the University of Osaka. January,  2025. [PDF](https://masataka123.github.io/blog3/pdf/2025_0116_What_is_seminar.pdf)
 15. "Inequalities for the second Chern class -Miyaoka-Yau inequality and Miyaoka's inequality-" [AG seminar](http://www4.math.sci.osaka-u.ac.jp/sembbs2/announce.cgi) the University of Osaka. December,  2025
-
+16. "Inequalities for the second Chern class and the structure theorem.-Miyaoka-Yau inequality and Miyaoka's inequality-” Tohoku University, May, 2026.
 
 ### **Apr. 2018--Mar. 2022**
 1.  'Vanishing theorems of vector bundles with singular Hermitian metrics'  Geometry Seminar, Nagoya University, Aichi, May. 2018. [slide](https://masataka123.github.io/blog3/pdf/2018_05_29.pdf)
@@ -93,8 +93,9 @@ Fukuoka Institute of Technology. May, 2025. (with E. Inoue, Y. Kusakabe, T. Nose
 15. "Study group on CR manifolds" Osaka Metropolitan University. September, 2026.  (with Y. Kusakabe, S. Matsumoto, Y. Suzuki, R. Murakami) [Link](https://masataka123.github.io/CR_manifold_2026/) 
 
 ## **Seminar**
-5. "Geometry Seminar in Osaka University" Osaka University, 2023--2024.  [2023](http://www4.math.sci.osaka-u.ac.jp/sembbs2/rirekiThisY.cgi) [2024](http://www4.math.sci.osaka-u.ac.jp/sembbs2/rireki.cgi?Y=2024)
-5. "Geometry Seminar in the University of Osaka" the University of Osaka, 2025-- (with S. Hamanaka, Y. Matsumoto)
+1. "Geometry Seminar in Osaka University" Osaka University, 2023--2024.  [2023](http://www4.math.sci.osaka-u.ac.jp/sembbs2/rirekiThisY.cgi) [2024](http://www4.math.sci.osaka-u.ac.jp/sembbs2/rireki.cgi?Y=2024)
+2. "Geometry Seminar in the University of Osaka" the University of Osaka, 2025--2026 (with S. Hamanaka, Y. Matsumoto) [2025](http://www4.math.sci.osaka-u.ac.jp/sembbs2/rireki.cgi?Y=2025)
+3. "Geometry Seminar in the University of Osaka" the University of Osaka, 2026-- (with K. Tashiro, Y. Matsumoto)
 
 
 [](# **Others** 1. 2019年度大阪市立大学共同利用・共同研究(A) 「標準束の幾何学」 共同研究の提案者・研究代表 [link](http://www.sci.osaka-cu.ac.jp/OCAMI/joint/joint-usage.html) )
