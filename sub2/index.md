@@ -25,23 +25,23 @@
 
 I will summarize my notes. I will put these into [Google Drive](https://drive.google.com/drive/folders/1zVY2KFeFIUPRmdwu5I1HHey6r1IstPLC?usp=sharing). This notes are written in Japanese, but I will (maybe) translate these into English by using chatGPT. I think that this may contain many mistakes, so please read it carefully.
 
-- [List of textbook -Around Algebraic geometry, Complex geometry, and Several complex variables-](https://masataka123.github.io/blog3/pdf/20251001_masterguide/master_guide_20251001_C2_eng.pdf)
+1.  [List of textbook -Around Algebraic geometry, Complex geometry, and Several complex variables-](https://masataka123.github.io/blog3/pdf/20251001_masterguide/master_guide_20251001_C2_eng.pdf)
 
-- [位相空間論まとめ (in preparation)](https://masataka123.github.io/blog3/pdf/0_集合と位相まとめ_20221001.pdf)
+1.  [位相空間論まとめ (in preparation)](https://masataka123.github.io/blog3/pdf/0_集合と位相まとめ_20221001.pdf)
 
-- [Condenced Mathmatics ショルツのレクチャーノート Section 2. Appendix 発表原稿(in preparation)](https://masataka123.github.io/blog3/pdf/2025_02_18_Condensed_Mathmatics_talk.pdf)
+1.  [Condenced Mathmatics ショルツのレクチャーノート Section 2. Appendix 発表原稿(in preparation)](https://masataka123.github.io/blog3/pdf/2025_02_18_Condensed_Mathmatics_talk.pdf)
 
-- [コンパクト生成空間・コンパクト生成弱ハウスドルフ空間のまとめ (in preparation)](https://masataka123.github.io/blog3/pdf/2025_02_18_CGWH.pdf)
+1.  [コンパクト生成空間・コンパクト生成弱ハウスドルフ空間のまとめ (in preparation)](https://masataka123.github.io/blog3/pdf/2025_02_18_CGWH.pdf)
 
-- [Campana Special variety まとめ (in preparation)](https://masataka123.github.io/blog3/pdf/20251218_campana/Campana_04_2025_1218.pdf)
+1. [Campana Special variety まとめ (in preparation)](https://masataka123.github.io/blog3/pdf/20251218_campana/Campana_04_2025_1218.pdf)
 
--  [Campana-Winkelman 15 まとめ(in preparation)](https://masataka123.github.io/blog3/pdf/20251218_campana/Campana_Winkelman_2025_1218.pdf) 
-
-
-- [岡多様体のまとめ (in preparation)](https://masataka123.github.io/blog3/pdf/20260501_Oka/岡多様体まとめ_2026_0501.pdf) 
+1.  [Campana-Winkelman 15 まとめ(in preparation)](https://masataka123.github.io/blog3/pdf/20251218_campana/Campana_Winkelman_2025_1218.pdf) 
 
 
-- [Chern類と複素幾何学(in preparation)](https://masataka123.github.io/blog3/pdf/20260526_Tohoku_Chern_class/東北大学授業資料_2026_0526.pdf) 
+1. [岡多様体のまとめ (in preparation)](https://masataka123.github.io/blog3/pdf/20260501_Oka/岡多様体まとめ_2026_0501.pdf) 
+
+
+1.  [Chern類と複素幾何学(in preparation)](https://masataka123.github.io/blog3/pdf/20260526_Tohoku_Chern_class/東北大学授業資料_2026_0526.pdf) 
 
 
 <!--
