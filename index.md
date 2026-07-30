@@ -9,7 +9,7 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 
 
 ## **News**
-- We will submit a new paper: [The Miyaoka-Yau inequality and the delta invariant for Fano varieties](https://arxiv.org/abs/2607.25181). This is a joint work with Tomoyuki Hisamoto at Nagoya University.
+- We submitted a new paper: [The Miyaoka-Yau inequality and the delta invariant for Fano varieties](https://arxiv.org/abs/2607.25181). This is a joint work with Tomoyuki Hisamoto at Nagoya University.
 
 
 <!--
