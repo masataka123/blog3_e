@@ -19,7 +19,9 @@
 
 - Masataka Iwai, Satoshi Jinnouchi, Shiyu Zhang 'The Miyaoka-Yau inequality for singular varieties with big canonical or anticanonical divisors' [arXiv](https://arxiv.org/abs/2507.08522)
 
+- Masataka Iwai, Satoshi Jinnouchi, Shiyu Zhang 'Semipositivity of the orbifold second Chern class in Fujiki's class' [arXiv](https://arxiv.org/abs/2607.18699)
 
+- Tomoyuki Hisamoto, Masataka Iwai 'The Miyaoka-Yau inequality and the delta invariant for Fano varieties' [arXiv](https://arxiv.org/abs/2607.25181)
 
 # **Note**
 
