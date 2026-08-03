@@ -10,7 +10,7 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 
 ## **News**
 - We submitted a new paper: [The Miyaoka-Yau inequality and the delta invariant for Fano varieties](https://arxiv.org/abs/2607.25181). This is a joint work with Tomoyuki Hisamoto at Nagoya University.
-
+- I will talk in Birational Geometry Seminar [2026](https://www.math.ucla.edu/~jmoraga/BGS2026) at 26th September, in Japan time.
 
 <!--
 - I will give a talk at the [Workshop on Fano Varieties](https://bicmr.pku.edu.cn/content/show/17-3569.html) to be held at Peking University on June 23-27, 2025. 
