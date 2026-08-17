@@ -31,21 +31,21 @@ I will summarize my notes. I will put these into [Google Drive](https://drive.go
 
 -  [位相空間論まとめ (in preparation)](https://masataka123.github.io/blog3/pdf/0_集合と位相まとめ_20221001.pdf)
 
-- [Condenced Mathmatics ショルツのレクチャーノート Section 2. Appendix 発表原稿(in preparation)](https://masataka123.github.io/blog3/pdf/2025_02_18_Condensed_Mathmatics_talk.pdf)
+- [Condenced Mathmatics ショルツのレクチャーノート Section 2. Appendix 発表原稿(in Japanese)](https://masataka123.github.io/blog3/pdf/2025_02_18_Condensed_Mathmatics_talk.pdf)
 
-- [コンパクト生成空間・コンパクト生成弱ハウスドルフ空間のまとめ (in preparation)](https://masataka123.github.io/blog3/pdf/2025_02_18_CGWH.pdf)
+- [コンパクト生成空間・コンパクト生成弱ハウスドルフ空間のまとめ (in Japanese)](https://masataka123.github.io/blog3/pdf/2025_02_18_CGWH.pdf)
 
-- [Campana Special variety まとめ (in preparation)](https://masataka123.github.io/blog3/pdf/20251218_campana/Campana_04_2025_1218.pdf)
+- [Campana Special variety まとめ (in Japanese](https://masataka123.github.io/blog3/pdf/20251218_campana/Campana_04_2025_1218.pdf)
 
-- [Campana-Winkelman 15 まとめ(in preparation)](https://masataka123.github.io/blog3/pdf/20251218_campana/Campana_Winkelman_2025_1218.pdf) 
-
-
--  [岡多様体のまとめ (in preparation)](https://masataka123.github.io/blog3/pdf/20260501_Oka/岡多様体まとめ_2026_0501.pdf) 
+- [Campana-Winkelman 15 まとめ(in Japanese)](https://masataka123.github.io/blog3/pdf/20251218_campana/Campana_Winkelman_2025_1218.pdf) 
 
 
--  [Chern類と複素幾何学(in preparation)](https://masataka123.github.io/blog3/pdf/20260526_Tohoku_Chern_class/東北大学授業資料_2026_0526.pdf) 
+-  [岡多様体のまとめ (in Japanese)](https://masataka123.github.io/blog3/pdf/20260501_Oka/岡多様体まとめ_2026_0501.pdf) 
 
-- [Yauの定理とその応用(in preparation)](https://masataka123.github.io/blog3/pdf/20260813_Yau_theorem/Yau_theorem_application_2026_0813.pdf) 
+
+-  [Chern類と複素幾何学(in Japanese)](https://masataka123.github.io/blog3/pdf/20260526_Tohoku_Chern_class/tohoku_2026_0526_ver2.pdf) 
+
+- [Yauの定理とその応用(in Japanese)](https://masataka123.github.io/blog3/pdf/20260813_Yau_theorem/Yau_theorem_application_2026_0813.pdf) 
 
 <!--
 
