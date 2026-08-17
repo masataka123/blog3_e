@@ -38,6 +38,9 @@
 
 # **Others**
 
+## **Geometry Paper Digest**
+I created [Geometry Paper Digest](https://masataka123.github.io/geometry-paper-digest/), a website where I summarize papers that I find interesting in Japanese with a lot of help from ChatGPT.
+
 ## Photo
 - [My Laboratory (since 2026/03)](https://masataka123.github.io/blog3_e/sub4/picture_room_3/)
 - [My Laboratory (before 2025/08)](https://masataka123.github.io/blog3_e/sub4/picture_room_2/)
