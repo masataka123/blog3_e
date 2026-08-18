@@ -45,7 +45,7 @@ I will summarize my notes. I will put these into [Google Drive](https://drive.go
 
 -  [Chern類と複素幾何学(in Japanese)](https://masataka123.github.io/blog3/pdf/20260526_Tohoku_Chern_class/tohoku_2026_0526_ver2.pdf) 
 
-- [Yauの定理とその応用(in Japanese)](https://masataka123.github.io/blog3/pdf/20260813_Yau_theorem/Yau_theorem_application_2026_0813.pdf) 
+- [Yauの定理とその応用(in Japanese)](https://masataka123.github.io/blog3/pdf/20260813_Yau_theorem/Yau_theorem_application_2026_0818.pdf) 
 
 <!--
 
