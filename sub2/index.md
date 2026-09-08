@@ -71,7 +71,7 @@ I will summarize my notes. I will put these into [Google Drive](https://drive.go
 This is a remark about 'Minimal projective varieties satisfying Miyaoka's equality.'
 -->
 
-# **Notes Written by ChatGPTト**
+# **Notes Written by ChatGPT**
 I asked ChatGPT to write something like a research paper, and it came up with this. I have not checked whether it is correct, so please read it with caution.
 
 - [A combinatorial proof of the delta-corrected Miyaoka--Yau inequality for toric Fano varieties](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/toric_MY_20260908.pdf) 
