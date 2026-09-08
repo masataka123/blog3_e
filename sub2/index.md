@@ -71,6 +71,15 @@ I will summarize my notes. I will put these into [Google Drive](https://drive.go
 This is a remark about 'Minimal projective varieties satisfying Miyaoka's equality.'
 -->
 
+# **Notes Written by ChatGPTト**
+I asked ChatGPT to write something like a research paper, and it came up with this. I have not checked whether it is correct, so please read it with caution.
+
+- [A combinatorial proof of the delta-corrected Miyaoka--Yau inequality for toric Fano varieties](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/toric_MY_20260908.pdf) 
+- [Maximal relative anticanonical growth\\and finite \'etale splitting](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/anticanonical_20260908.pdf) 
+- [Magnitude homology of annuli and holomorphic maps](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/maginutude_20260908.pdf) 
+- [Basic Chern vanishing and Beauville--Bogomolov structure in Vaisman geometry](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/vaisman_BB_20260908.pdf) 
+- [Fixed-Lee positive cones on point blow-ups of exact LCK surfaces](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/LCK_20260908.pdf) 
+
 # **Papers and preprints in other fields**
 - Masataka Iwai. ‘地震発生の新しい統計則に関する数理的研究.’ 数理科学実践研究レター(Japanese). [Article link](https://www.ms.u-tokyo.ac.jp/lmsr/pdf/2019-6.pdf)
 - Masataka Iwai, Takahito Kashiwabara, Ichiro Sato and Ryosuke Yano. ‘Earthquake-network in Japan based on Abe-Suzuki model and its characteristics.’ DOI: 10.13140/RG.2.2.12494.61766 [ResearchGate](https://www.researchgate.net/publication/335443738_Earthquake-network_in_Japan_based_on_Abe-Suzuki_model_and_its_1_characteristics_2) 
