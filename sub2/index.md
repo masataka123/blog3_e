@@ -74,11 +74,25 @@ This is a remark about 'Minimal projective varieties satisfying Miyaoka's equali
 # **Notes Written by ChatGPT**
 I asked ChatGPT to write something like a research paper, and it came up with this. I have not checked whether it is correct, so please read it with caution.
 
+
 - [A combinatorial proof of the delta-corrected Miyaoka--Yau inequality for toric Fano varieties](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/toric_MY_20260908.pdf) 
-- [Maximal relative anticanonical growth\\and finite \'etale splitting](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/anticanonical_20260908.pdf) 
+- [Maximal relative anticanonical growth and finite etale splitting](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/anticanonical_20260908.pdf) 
+- [RC-positivity of induced symmetric powers and positive mean curvature](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/RC_positive_2.pdf) 
+- [Positive curvature averages without a common RC direction](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/RC_positive_1.pdf) 
+- [Mean RC curvature and pinched volume rigidity](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/RC_DS_continues.pdf) 
 - [Magnitude homology of annuli and holomorphic maps](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/maginutude_20260908.pdf) 
+- [Magnitude homology of Abelian surfaces: a nonisogenous collision and two-torsion recovery](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/magnitude_geometry_bilingual.pdf) 
 - [Basic Chern vanishing and Beauville--Bogomolov structure in Vaisman geometry](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/vaisman_BB_20260908.pdf) 
 - [Fixed-Lee positive cones on point blow-ups of exact LCK surfaces](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/LCK_20260908.pdf) 
+- [A conic criterion for higher Kahler structureson diagonal complex nilmanifolds](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/nil_solv_research_2.pdf) 
+- [p-Kahler thresholds for two-step nilmanifolds from rational normal curves](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/nil_solv_research_bilingual.pdf) 
+- [Heat-semigroup defects, gaussian approximation, and spectral multiplicities on RCD spaces](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/metric_measure_research_bilingual.pdf) 
+- [Spectral cluster multiplicities from almost gaussian eigenfunctions on RCD spaces](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/metric_measure_research_2.pdf) 
+
+
+I asked ChatGPT to create a prompt, and then ran the prompt with ChatGPT 6 Astra on Ultra for about an hour.
+ I only know the basic concepts in these areas. As you can see, it is roughly at the level of a master's thesis.
+
 
 # **Papers and preprints in other fields**
 - Masataka Iwai. ‘地震発生の新しい統計則に関する数理的研究.’ 数理科学実践研究レター(Japanese). [Article link](https://www.ms.u-tokyo.ac.jp/lmsr/pdf/2019-6.pdf)
