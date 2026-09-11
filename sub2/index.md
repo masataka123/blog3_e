@@ -98,6 +98,8 @@ Complex Geometry
 Differential Geometry・Geometric Analysis
 - [Heat-semigroup defects, gaussian approximation, and spectral multiplicities on RCD spaces](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/metric_measure_research_bilingual.pdf) 
 - [Spectral cluster multiplicities from almost gaussian eigenfunctions on RCD spaces](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/metric_measure_research_2.pdf) 
+- [Robin eigenvalues on weighted intervals:collapse of the infimum and sharp upper-model rigidity](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/bakry_emery_robin.pdf) 
+- [Minimal signless laplacian coefficient vectors of cacti and sharp incidence energy in the even-cycle class](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/cactus_coefficients.pdf) 
 
 Several Complex Varibles
 - [Magnitude homology of annuli and holomorphic maps](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/maginutude_20260908.pdf) 
@@ -106,6 +108,13 @@ Several Complex Varibles
 - [Algebraic rigidity and prescribed convergence sets for triangular non-autonomous automorphisms](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/complex_dynamics_scv.pdf) 
 
 
+Others
+- [Depth-three symmetric Eisenstein series](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/symmetric_triple_eisenstein.pdf) 
+- [An integral refinement of the Bachmann–Risan matrix](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/br_integral_refinement.pdf) 
+- [Sharp polarized Chern inequalities for rank-four matroids](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/matroid_miyaoka_yau.pdf) 
+- [Graphic matroid Chow polynomials](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/graphic_matroid_chow.pdf) 
+- [Sharp separation from twelve intersection polynomials: long virtual knots with identical closures](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/virtual_knot_separation.pdf) 
+- [Virtual tightness on M(5, 2): a lens-space reduction and an explicit double cover](https://masataka123.github.io/blog3/pdf/20260908_chatGPT_paper/m52_contact.pdf) 
 
 
 
