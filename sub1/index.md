@@ -35,8 +35,8 @@
 ### **2026**
 - Summer 2026, Linear Algebra 1 + Problem Session (Osaka University)  [Link](https://masataka123.github.io/2026_summer_linear_algebra/)
 - Summer 2026, Intensive Lecture (Tohoku University)  [Link](https://masataka123.github.io/2026_tohoku_Chern_class/)
-- Winter 2026, Linear Algebra 2 (Osaka University) 
-- Winter 2026, Complex Geometry (Riemann surface) (Osaka University)
+- Winter 2026, Linear Algebra 2 (Osaka University) [Link](https://masataka123.github.io/2026_winter_linear_algebra/)
+- Winter 2026, Complex Geometry (Riemann surface) (Osaka University) [Link](https://masataka123.github.io/2026_winter_Riemann_surface/)
 
 ### **2025**
 - Summer 2025, Linear Algebra 1 (Osaka University) [Link](https://masataka123.github.io/2025_summer_linear_algebra/)
