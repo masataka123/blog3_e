@@ -1,6 +1,8 @@
 
 # **Schedule**
 
+- I will talk in  [Japan–California Algebraic Geometry Meeting](https://www.math.ucla.edu/~jmoraga/Japan-California-AG-Meeting) at UCLA in 22th-26th, March ,2026.
+
 # **Talks**
 
 ## **Conferences**
@@ -62,6 +64,8 @@
 14. '数学の勉強法・研究の進め方・専門の決め方について(in Japanese)' [What is セミナー](https://sites.google.com/view/handai-what-is-seminar/), the University of Osaka. January,  2025. [PDF](https://masataka123.github.io/blog3/pdf/2025_0116_What_is_seminar.pdf)
 15. "Inequalities for the second Chern class -Miyaoka-Yau inequality and Miyaoka's inequality-" [AG seminar](http://www4.math.sci.osaka-u.ac.jp/sembbs2/announce.cgi) the University of Osaka. December,  2025
 16. "Inequalities for the second Chern class and the structure theorem.-Miyaoka-Yau inequality and Miyaoka's inequality-” Tohoku University, May, 2026.
+17. "The Miyaoka-Yau inequality and the delta invariant for Fano varieties " [Birational Geometry Seminar 2026](https://www.math.ucla.edu/~jmoraga/BGS2026), online (UCLA), September, 2026.
+
 
 ### **Apr. 2018--Mar. 2022**
 1.  'Vanishing theorems of vector bundles with singular Hermitian metrics'  Geometry Seminar, Nagoya University, Aichi, May. 2018. [slide](https://masataka123.github.io/blog3/pdf/2018_05_29.pdf)
