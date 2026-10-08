@@ -9,6 +9,7 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 
 
 ## **News**
+- I created  [OpenAI Math Digest](https://masataka123.github.io/OpenAI-Math-Digest/en/) to provide an overview of the papers in the OpenAI Research Catalog, which OpenAI announced on October 7. 
 - I will talk in  [Japan–California Algebraic Geometry Meeting](https://www.math.ucla.edu/~jmoraga/Japan-California-AG-Meeting).
 
 ## **OpenAI Math Digest**
