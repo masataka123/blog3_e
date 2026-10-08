@@ -11,6 +11,11 @@ A Japanese version is here.→[日本語版](https://masataka123.github.io/blog3
 ## **News**
 - I will talk in  [Japan–California Algebraic Geometry Meeting](https://www.math.ucla.edu/~jmoraga/Japan-California-AG-Meeting).
 
+## **OpenAI Math Digest**
+I created [OpenAI Math Digest](https://masataka123.github.io/OpenAI-Math-Digest/en/) to provide an overview of the papers in the OpenAI Research Catalog, which OpenAI announced on October 7.
+I thought it made sense to have AI explain papers written by AI, so all the explanations are written by AI.
+If you’d like to get a feel for how the papers connect and how the proofs work, please take a look.
+
 <!--
 - I will give a talk at the [Workshop on Fano Varieties](https://bicmr.pku.edu.cn/content/show/17-3569.html) to be held at Peking University on June 23-27, 2025. 
 - On 13th--15th December 2024, we will hold a workshop: [Winter seminar of Several Complex Variables in 2024](https://masataka123.github.io/2024scvwinter/)
